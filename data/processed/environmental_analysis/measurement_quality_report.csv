@@ -1,0 +1,14 @@
+Metric,Value
+total_records,276895
+concentration_records,275013
+exact_measurements,110993
+censored_measurements,162601
+missing_measurements,1419
+dimensionless_records,1882
+other_or_unclassified_unit_records,0
+unique_compounds,1125
+unique_matrices,62
+unique_countries,89
+unique_literature_sources,2064
+positive_detection_zero_mec_review_records,681
+lower_bound_records_in_concentration_subset,32

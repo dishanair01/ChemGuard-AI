@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ChemGuard AI | Environmental Research Intelligence</title>
+<style>
+
+:root{--bg:#090f17;--panel:#111a25;--panel2:#151f2c;--panel3:#1a2634;--line:#263444;--text:#edf3f7;--muted:#91a0ae;--green:#a6d6a0;--green2:#7fbf91;--mint:#b8e2d0;--blue:#9ab8d8;--lav:#b7addd;--amber:#d9bd83;--red:#d99b9b;--shadow:0 18px 45px rgba(0,0,0,.18)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(ellipse at 78% -10%,rgba(89,132,111,.13),transparent 35%),var(--bg);color:var(--text);font:14px/1.6 Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif;letter-spacing:.005em}
+button,input,select{font:inherit}button{cursor:pointer}.layout{display:grid;grid-template-columns:244px minmax(0,1fr);min-height:100vh}
+aside{background:rgba(13,20,29,.94);border-right:1px solid rgba(145,160,174,.13);padding:24px 16px;position:sticky;top:0;height:100vh;backdrop-filter:blur(18px)}
+.brand{display:flex;gap:12px;align-items:center;padding:4px 9px 30px}.logo{width:39px;height:39px;border-radius:13px;background:linear-gradient(145deg,#c5e5bd,#79b99b);display:grid;place-items:center;color:#12251d;font-weight:850;font-size:20px;box-shadow:0 5px 20px #8dc49c22}.brand strong{font-size:16px;display:block;letter-spacing:-.3px}.brand small{color:var(--muted);font-size:10px}
+.navtitle{color:#718091;text-transform:uppercase;letter-spacing:1.7px;font-size:9px;font-weight:750;padding:10px 11px}.nav button{width:100%;text-align:left;background:transparent;border:1px solid transparent;color:#aab6c1;padding:11px 12px;border-radius:11px;margin:3px 0;transition:.2s}.nav button.active,.nav button:hover{background:linear-gradient(100deg,#9bcf9d1c,#9bcf9d08);border-color:#9bcf9d22;color:#e9f5e9}.nav button.active{box-shadow:inset 2px 0 var(--green)}
+.sidefoot{position:absolute;bottom:18px;left:16px;right:16px;border:1px solid #344238;border-radius:14px;padding:13px;color:var(--muted);font-size:10px;background:linear-gradient(145deg,#17251f,#121d1c)}
+main{max-width:1600px;width:100%;margin:auto;padding:25px clamp(18px,3.2vw,48px) 60px}.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:26px;color:#81909e;font-size:10px;letter-spacing:1.2px}.pill{border:1px solid #536a55;color:#b8d7b3;padding:6px 11px;border-radius:99px;background:#a4ce9b0c;letter-spacing:.2px}
+.page{display:none}.page.active{display:block;animation:appear .3s ease}@keyframes appear{from{opacity:.65;transform:translateY(4px)}to{opacity:1;transform:none}}
+.hero{padding:32px;border:1px solid #425747;border-radius:22px;background:radial-gradient(ellipse at 85% 15%,#a7d69c17,transparent 38%),linear-gradient(120deg,#192a27,#17232b 72%);margin-bottom:18px;box-shadow:var(--shadow);position:relative;overflow:hidden}.eyebrow{color:var(--green);font-size:9px;text-transform:uppercase;letter-spacing:1.8px;font-weight:800}h1{font-size:clamp(27px,3.5vw,40px);line-height:1.15;letter-spacing:-1.35px;margin:10px 0 12px}h2{font-size:17px;letter-spacing:-.35px;margin:0 0 8px}h3{font-size:13px;margin:0 0 7px}p{color:var(--muted);margin:0 0 12px}.hero p{max-width:760px}.grid{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:14px;margin:15px 0 22px}.card{background:linear-gradient(155deg,rgba(24,36,49,.96),rgba(17,26,37,.98));border:1px solid rgba(145,160,174,.14);border-radius:17px;padding:18px;min-width:0;box-shadow:0 10px 30px rgba(0,0,0,.09)}.card:hover{border-color:#a6d6a02c}.s3{grid-column:span 3}.s4{grid-column:span 4}.s5{grid-column:span 5}.s6{grid-column:span 6}.s7{grid-column:span 7}.s8{grid-column:span 8}.s12{grid-column:span 12}
+.metric{font-size:27px;font-weight:760;letter-spacing:-1px;margin:5px 0 2px}.tiny{font-size:10px;color:var(--muted)}.muted{color:var(--muted)}.btn{border:1px solid #405247;background:#202e2c;color:#e7f0e8;border-radius:10px;padding:10px 14px;transition:.2s}.btn.primary{background:linear-gradient(105deg,#8fbe8e,#79ad9a);border:0;color:#102017;font-weight:800}.btn:hover{filter:brightness(1.1);transform:translateY(-1px)}.actions{display:flex;gap:9px;flex-wrap:wrap;margin-top:18px}
+.searchbox{display:flex;gap:8px;margin:15px 0}.searchbox input,.searchbox select,.field input,.field select{background:#0d151f;border:1px solid #354452;color:var(--text);padding:12px 13px;border-radius:10px;width:100%;outline:none}.searchbox input:focus,.field input:focus,.searchbox select:focus{border-color:var(--green)}.searchbox button{white-space:nowrap}
+.chips{display:flex;gap:7px;flex-wrap:wrap}.chip{border:1px solid #394a4c;border-radius:99px;padding:5px 10px;color:#bfd4c2;background:#a6d6a00a;font-size:10px}.resultrow{display:flex;justify-content:space-between;gap:15px;align-items:center;padding:13px 0;border-bottom:1px solid #293642}.resultrow:last-child{border:0}.resultrow button{flex-shrink:0}
+.notice{padding:13px 15px;border-radius:12px;background:#322b1d;border:1px solid #665638;color:#e8d4a8;font-size:12px;margin:12px 0}.good{background:#172b25;border-color:#405e49;color:#c1dfbd}.tag{display:inline-block;border:1px solid #40534b;border-radius:7px;padding:3px 8px;font-size:10px;color:#c5d8c8;margin:2px;background:#a6d6a008}.tag.teal{border-color:#52735a;color:#b9d9b5}.tag.gold{border-color:#76633e;color:#e4c98f}
+.profilehead{display:flex;justify-content:space-between;gap:15px;align-items:flex-start}.profiletitle{font-size:27px;margin:4px 0}.field{margin:10px 0}.field label{display:block;color:#bfd0c4;font-size:11px;margin-bottom:5px}
+table{width:100%;border-collapse:separate;border-spacing:0;font-size:11px;min-width:650px}td,th{text-align:left;padding:11px 10px;border-bottom:1px solid #2b3944;vertical-align:top}th{color:#a9b8ad;font-weight:700;background:#18251f;position:sticky;top:0}td{color:#d7e1da}tbody tr:hover{background:#a6d6a008}.source{color:var(--green);text-decoration:none}.source:hover{text-decoration:underline}.footer{border-top:1px solid #293642;padding-top:16px;margin-top:32px;color:#718091;font-size:10px}
+.row{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.metric-card{min-height:128px;position:relative;overflow:hidden}.metric-card:after{content:"";position:absolute;width:110px;height:110px;border-radius:50%;right:-45px;top:-50px;background:radial-gradient(circle,#a6d6a018,transparent 70%)}.metric-label{font-size:10px;color:#9eada4;text-transform:uppercase;letter-spacing:1.1px}.metric-foot{font-size:10px;color:#82938a}
+.analytics-grid{display:grid;grid-template-columns:1.35fr 1fr;gap:14px;margin:14px 0}.chart-card{background:linear-gradient(155deg,#182531,#111b26);border:1px solid #2b3b45;border-radius:17px;padding:18px;min-width:0}.chart-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:12px}.chart-area{width:100%;height:180px;display:block}.chart-legend{display:flex;gap:14px;flex-wrap:wrap;color:#9baaa2;font-size:10px}.legend-dot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:5px;background:var(--green)}.soft-bars{display:flex;align-items:end;gap:9px;height:145px;padding:10px 4px 0}.soft-bar{flex:1;min-width:12px;border-radius:7px 7px 3px 3px;background:linear-gradient(180deg,#a9d6a4,#608c78);opacity:.85}.bar-labels{display:flex;justify-content:space-between;color:#82938a;font-size:9px;margin-top:8px}.data-strip{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;padding:12px 0;border-top:1px solid #293943;margin-top:10px;color:#9eada4;font-size:10px}
+@media(max-width:1000px){.layout{grid-template-columns:210px 1fr}.s3{grid-column:span 6}.analytics-grid{grid-template-columns:1fr}}
+@media(max-width:760px){.layout{grid-template-columns:1fr}aside{position:relative;height:auto;padding:12px;border-right:0;border-bottom:1px solid var(--line)}.brand{padding:4px 8px 10px}.sidefoot{display:none}.nav{display:flex;overflow:auto}.nav button{white-space:nowrap;width:auto}.navtitle{display:none}main{padding:18px 14px}.s4,.s5,.s6,.s7,.s8{grid-column:span 6}}
+@media(max-width:550px){.s3,.s4,.s5,.s6,.s7,.s8{grid-column:span 12}.profilehead{display:block}.searchbox{flex-direction:column}.hero{padding:23px}.top{align-items:flex-start;gap:10px;flex-direction:column}}
+
+</style></head>
+<body><div class="layout">
+<aside><div class="brand"><div class="logo">C</div><div><strong>ChemGuard AI</strong><small>Environmental research intelligence</small></div></div>
+<div class="navtitle">Platform</div><div class="nav">
+<button class="active" data-page="home">⌂ &nbsp;Overview</button>
+<button data-page="search">⌕ &nbsp;Compound intelligence</button>
+<button data-page="mof">⬡ &nbsp;MOF research</button>
+<button data-page="public">♡ &nbsp;Public guidance</button>
+<button data-page="sources">▤ &nbsp;Datasets & sources</button></div>
+<div class="sidefoot"><b style="color:#e5f2fb">Evidence-first platform</b><br><br>Measured observations, literature evidence and model estimates are kept separate. Missing evidence is never invented.</div></aside>
+<main><div class="top"><span>CHEMGUARD AI / <span id="crumb">OVERVIEW</span></span><span class="pill">● Research prototype · local demo</span></div>
+<section class="page active" id="home">
+<div class="hero"><div class="eyebrow">Chemistry · Environmental science · Machine learning</div><h1>From pharmaceutical pollution<br><span style="color:var(--teal)">to evidence-led treatment research.</span></h1><p>Explore pharmaceutical compounds, environmental occurrence, fate, aquatic effects and wastewater treatment evidence. Investigate MOF-based adsorbents where compound-specific research data exists.</p><div class="actions"><button class="btn primary" onclick="go('search')">Search a compound →</button><button class="btn" onclick="go('sources')">Explore research databases</button></div></div>
+<div class="grid">
+  <div class="card s3 metric-card"><div class="metric-label">Environmental records</div><div class="metric">276,895</div><div class="metric-foot">PHARMS-UBA dataset loaded and analysed</div></div>
+  <div class="card s3 metric-card"><div class="metric-label">MOF structures indexed</div><div class="metric">137,652</div><div class="metric-foot">MOF database JSON records indexed</div></div>
+  <div class="card s3 metric-card"><div class="metric-label">Unique compounds</div><div class="metric">1,125</div><div class="metric-foot">Names represented in environmental records</div></div>
+  <div class="card s3 metric-card"><div class="metric-label">Literature sources</div><div class="metric">2,064</div><div class="metric-foot">Citation strings in analysed records</div></div>
+</div>
+<div class="analytics-grid">
+  <div class="chart-card">
+    <div class="chart-head"><div><div class="eyebrow">Measurement quality</div><h2>Environmental record classification</h2><p>Classification of the 275,013 concentration records.</p></div><span class="tag teal">Dataset audit</span></div>
+    <svg class="chart-area" viewBox="0 0 620 190" role="img" aria-label="Exact, censored and missing concentration measurement categories">
+      <defs><linearGradient id="exactFill" x1="0" x2="1"><stop offset="0" stop-color="#8fbd91"/><stop offset="1" stop-color="#b8dca9"/></linearGradient><linearGradient id="censoredFill" x1="0" x2="1"><stop offset="0" stop-color="#8d9fc0"/><stop offset="1" stop-color="#b5b2d5"/></linearGradient></defs>
+      <g stroke="#2a3944" stroke-width="1"><path d="M18 35H600M18 80H600M18 125H600M18 170H600"/></g>
+      <text x="18" y="20" fill="#92a49a" font-size="10">Records</text>
+      <rect x="18" y="48" width="235" height="26" rx="7" fill="url(#exactFill)"/><text x="264" y="66" fill="#dce9df" font-size="12">Exact · 110,993</text>
+      <rect x="18" y="92" width="344" height="26" rx="7" fill="url(#censoredFill)"/><text x="373" y="110" fill="#dce4f0" font-size="12">Censored · 162,601</text>
+      <rect x="18" y="136" width="12" height="26" rx="5" fill="#d9bd83"/><text x="42" y="154" fill="#e5d4ae" font-size="12">Missing · 1,419</text>
+    </svg>
+    <div class="chart-legend"><span><i class="legend-dot"></i>Exact measurement</span><span><i class="legend-dot" style="background:#a9afd0"></i>Censored measurement</span><span><i class="legend-dot" style="background:#d9bd83"></i>Missing value</span></div>
+  </div>
+  <div class="chart-card">
+    <div class="chart-head"><div><div class="eyebrow">Research coverage</div><h2>Dataset dimensions</h2><p>Coverage represented in the processed source.</p></div><span class="tag">Source metadata</span></div>
+    <div class="soft-bars" aria-label="Dataset coverage indicators">
+      <div class="soft-bar" style="height:82%"></div><div class="soft-bar" style="height:68%;background:linear-gradient(180deg,#a9b6d9,#6e819e)"></div><div class="soft-bar" style="height:55%;background:linear-gradient(180deg,#c4b5df,#81749d)"></div><div class="soft-bar" style="height:42%;background:linear-gradient(180deg,#d8c39a,#9a815b)"></div>
+    </div>
+    <div class="bar-labels"><span>Compounds</span><span>Matrices</span><span>Countries</span><span>Sources</span></div>
+    <div class="data-strip"><span>1,125 compounds</span><span>62 matrices</span><span>89 countries</span><span>2,064 citations</span></div>
+    <p class="tiny">These are database coverage counts, not independent studies or comparable exposure levels.</p>
+  </div>
+</div>
+<div class="grid"><div class="card s3"><div class="tiny">Research dimensions</div><div class="metric">06</div><div class="tiny">Identity · occurrence · fate · effects · treatment · MOFs</div></div><div class="card s3"><div class="tiny">Starter catalogue</div><div class="metric" id="count">24</div><div class="tiny">Searchable example compounds</div></div><div class="card s3"><div class="tiny">Evidence policy</div><div class="metric">100%</div><div class="tiny">No fabricated measurements or predictions</div></div><div class="card s3"><div class="tiny">Research engines</div><div class="metric">In build</div><div class="tiny">Validated models require curated data</div></div>
+<div class="card s7"><h2>How a research profile is assembled</h2><p>Every compound profile is organised into consistent evidence sections.</p><div class="chips"><span class="chip">Chemical identity</span><span class="chip">Environmental occurrence</span><span class="chip">Persistence</span><span class="chip">Biodegradation</span><span class="chip">Aquatic effects</span><span class="chip">Wastewater treatment</span><span class="chip">MOF adsorption</span><span class="chip">References & uncertainty</span></div><div class="notice good">A section marked “Evidence lookup required” is an honest data gap, not a negative result.</div></div>
+<div class="card s5"><h2>Start with a compound</h2><p>Try one of the seed records below.</p><div id="quicklist"></div></div></div>
+<div class="notice">This is a research software prototype, not a regulatory risk assessor, clinical tool or substitute for laboratory validation.</div>
+</section>
+<section class="page" id="search"><div class="eyebrow">Compound intelligence</div><h1>Complete environmental research profile</h1><p>Search the starter catalogue by common name, alias or class. Open a profile to inspect each evidence domain and its current data status.</p>
+<div class="searchbox"><input id="q" placeholder="Search e.g. diclofenac, ibuprofen, antibiotic..." oninput="renderSearch()"><button class="btn primary" onclick="renderSearch()">Search catalogue</button></div>
+<div class="chips" id="classchips"></div><div class="card" style="margin-top:14px"><div class="row"><h2>Catalogue matches</h2><span class="tiny" id="matchcount"></span></div><div id="matches"></div></div>
+<div id="profile" style="display:none;margin-top:16px"></div>
+</section>
+
+<section class="page" id="mof">
+  <div class="eyebrow">Treatment-material research</div>
+  <h1>MOF Research Explorer</h1>
+  <p>Explore 137,652 metal-organic framework records and their available gas adsorption evidence.</p>
+
+  <div class="grid">
+    <div class="card s12">
+      <h2>Search MOF database</h2>
+      <p>Search using a MOF name or database ID.</p>
+
+      <div class="searchbox">
+        <input id="mofSearch" placeholder="Example: hMOF-26127 or 41147">
+        <select id="mofAdsorbate">
+          <option value="">All adsorbates</option>
+          <option value="CarbonDioxide">Carbon dioxide</option>
+          <option value="Hydrogen">Hydrogen</option>
+          <option value="Nitrogen">Nitrogen</option>
+          <option value="Methane">Methane</option>
+          <option value="Krypton">Krypton</option>
+          <option value="Xenon">Xenon</option>
+        </select>
+        <button class="btn primary" onclick="searchMOFs()">Search MOFs</button>
+      </div>
+
+      <div class="chips">
+        <span class="chip">137,652 indexed records</span>
+        <span class="chip">6 adsorbate categories</span>
+        <span class="chip">Local database</span>
+      </div>
+
+      <div id="mofStatus" class="notice">
+        Search the MOF database to view structural and adsorption information.
+      </div>
+      <div id="mofResults"></div>
+      <div id="mofDetails"></div>
+    </div>
+
+    <div class="card s12">
+      <h2>Scientific interpretation</h2>
+      <div class="notice">
+        The available adsorption records concern CO₂, H₂, N₂, CH₄, krypton and xenon.
+        These measurements do not establish pharmaceutical adsorption performance.
+      </div>
+      <p>Pharmaceutical-specific adsorption requires independent experimental evidence, including compound identity, water chemistry, pH, concentration and adsorption conditions.</p>
+    </div>
+  </div>
+</section>
+
+<section class="page" id="public"><div class="eyebrow">Public information</div><h1>Medicine waste & the environment</h1><p>Simple, non-technical information for people who want to understand why medicine disposal matters.</p>
+<div class="grid"><div class="card s6"><h2>Why does it matter?</h2><p>Unused medicines can enter waste and wastewater pathways if discarded improperly. Some pharmaceutical residues have been measured in wastewater, surface water, groundwater and other environmental compartments.</p></div><div class="card s6"><h2>What should the public do?</h2><p>Follow local municipal, pharmacy or health-authority take-back and disposal instructions. Do not assume that every medicine can be disposed of in the same way.</p></div><div class="card s12"><h2>Important distinction</h2><p>This platform provides environmental education only. It does not advise anyone to stop, change or discard a prescribed medicine. For medicine-specific disposal questions, ask a pharmacist or local health authority.</p><div class="notice good">The project will add location-specific collection guidance only when an official source confirms the service and its current availability.</div></div></div>
+</section>
+<section class="page" id="sources"><div class="eyebrow">Data provenance</div><h1>Research datasets & source registry</h1><p>These are starting points for the full data-ingestion pipeline. Each dataset has a different scope and cannot be treated as interchangeable.</p>
+<div class="card"><div class="resultrow"><div><b>PHARMS-UBA — Pharmaceuticals in the Environment</b><div class="tiny">Global measured environmental concentrations; 276,895 entries, 2,062 publications and 992 substances reported in the database description.</div></div><a class="source" target="_blank" rel="noopener" href="https://www.umweltbundesamt.de/en/themen/chemikalien/arzneimittel/the-uba-database-pharmaceuticals-in-the-environment">Open source ↗</a></div>
+<div class="resultrow"><div><b>US EPA CompTox / ECOTOX</b><div class="tiny">Chemical information and ecotoxicity evidence; endpoint and study context must be retained.</div></div><a class="source" target="_blank" rel="noopener" href="https://www.epa.gov/comptox-tools">Open source ↗</a></div>
+<div class="resultrow"><div><b>RISMEAU dataset (2024)</b><div class="tiny">Measured pharmaceuticals, biocides, bioassay and antimicrobial-resistance indicators across sludge, soil and leachate samples.</div></div><a class="source" target="_blank" rel="noopener" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11647127/">Open paper ↗</a></div>
+<div class="resultrow"><div><b>SIPIBEL wastewater dataset</b><div class="tiny">Wastewater, sludge, river and groundwater measurements with pharmaceutical and ecotoxicity-related data.</div></div><a class="source" target="_blank" rel="noopener" href="https://data.niaid.nih.gov/resources?id=zenodo_5176067">Open dataset ↗</a></div>
+<div class="resultrow"><div><b>Canadian wastewater monitoring dataset</b><div class="tiny">Pharmaceutical and personal-care product concentrations in wastewater, leachate, biosolids and sludge.</div></div><a class="source" target="_blank" rel="noopener" href="https://open.canada.ca/data/en/dataset/5633954d-e0a9-4ff9-b38c-5bf3b57b6b4d">Open dataset ↗</a></div></div>
+<div class="notice">Before model training, datasets must be downloaded, inspected, harmonised and checked for duplicates, units, detection limits, study metadata and measured-versus-predicted status.</div>
+</section>
+<div class="footer">CHEMGUARD AI · Prototype build · Research evidence should be interpreted in its original study context. No model predictions are currently being generated.</div>
+</main></div>
+<script>
+const compounds=[
+{name:"Diclofenac",aliases:["Voltaren (active ingredient)"],class:"NSAID",formula:"C14H11Cl2NO2",smiles:"O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl",note:"A widely studied anti-inflammatory pharmaceutical reported in environmental monitoring literature.",occ:"Reported in global environmental monitoring databases; inspect matrix, country, sampling date and measured concentration in the source record.",fate:"Compound- and condition-specific fate evidence must be extracted from primary studies.",bio:"Evidence lookup required; biodegradation depends on test method and conditions.",eco:"Aquatic ecotoxicity evidence should be reviewed by species, endpoint and exposure duration.",ww:"Removal varies by treatment process and operating conditions; study-level data required.",mof:"Search for framework-specific adsorption studies. No generic MOF performance is asserted here."},
+{name:"Ibuprofen",aliases:["Advil (active ingredient)","Brufen"],class:"NSAID",formula:"C13H18O2",smiles:"CC(C)Cc1ccc(cc1)C(C)C(=O)O",note:"A non-steroidal anti-inflammatory drug frequently included in pharmaceutical wastewater research.",occ:"Environmental occurrence records are available in monitoring literature; inspect original matrix and units.",fate:"Evidence lookup required by environmental compartment and study conditions.",bio:"Evidence lookup required.",eco:"Evidence lookup required by species and endpoint.",ww:"Treatment removal must be compared across processes and operating conditions.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Carbamazepine",aliases:["Tegretol (active ingredient)"],class:"Anticonvulsant",formula:"C15H12N2O",smiles:"NC(=O)N1c2ccccc2C=Cc2ccccc21",note:"A frequently investigated pharmaceutical in wastewater and environmental-fate studies.",occ:"Reported in environmental monitoring studies; treatment-plant effluent and receiving waters are common research contexts.",fate:"Persistence and transformation are study- and condition-dependent; retrieve primary measurements.",bio:"Evidence lookup required.",eco:"Review organism-specific effect studies and exposure ranges.",ww:"Conventional treatment removal may be variable; use comparable study-level evidence.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Sulfamethoxazole",aliases:["SMX"],class:"Antibiotic",formula:"C10H11N3O3S",smiles:"Cc1onc(NS(=O)(=O)c2ccc(N)cc2)c1",note:"A sulfonamide antibiotic investigated in wastewater and environmental monitoring.",occ:"Reported in environmental monitoring literature; preserve country, matrix and sampling metadata.",fate:"Transformation pathways require study-level review.",bio:"Evidence lookup required.",eco:"Evaluate aquatic endpoints and antimicrobial-resistance context separately.",ww:"Removal depends on process and operating conditions.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Trimethoprim",aliases:["TMP"],class:"Antibiotic",formula:"C14H18N4O3",smiles:"COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC",note:"An antibiotic included in pharmaceutical environmental monitoring and treatment research.",occ:"Evidence lookup required for each matrix and location.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal data required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Naproxen",aliases:["Aleve (active ingredient)"],class:"NSAID",formula:"C14H14O3",smiles:"COc1ccc2cc(ccc2c1)[C@@H](C)C(=O)O",note:"An NSAID investigated in aquatic environmental occurrence and treatment studies.",occ:"Environmental monitoring evidence should be checked against source records.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Treatment performance varies by process.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Ketoprofen",aliases:[],class:"NSAID",formula:"C16H14O3",smiles:"CC(C(=O)O)c1cccc(c1)C(=O)c1ccccc1",note:"An NSAID studied in pharmaceutical wastewater research.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Acetaminophen",aliases:["Paracetamol"],class:"Analgesic",formula:"C8H9NO2",smiles:"CC(=O)Nc1ccc(O)cc1",note:"An analgesic/antipyretic investigated in wastewater and environmental studies.",occ:"Evidence lookup required by matrix and geography.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Caffeine",aliases:[],class:"Stimulant marker",formula:"C8H10N4O2",smiles:"Cn1c(=O)c2c(ncn2C)n(C)c1=O",note:"Often used as a wastewater-related marker in environmental studies; it is not a prescription medicine.",occ:"Environmental occurrence literature is available; inspect original monitoring records.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Treatment evidence must be extracted by process.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Metformin",aliases:[],class:"Antidiabetic",formula:"C4H11N5",smiles:"CN(C)C(=N)NC(=N)N",note:"An antidiabetic pharmaceutical investigated as an emerging contaminant.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Venlafaxine",aliases:[],class:"Antidepressant",formula:"C17H27NO2",smiles:"COc1ccc(cc1)C(CN(C)C)C1(O)CCCCC1",note:"A pharmaceutical investigated in environmental occurrence studies.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Fluoxetine",aliases:["Prozac (active ingredient)"],class:"Antidepressant",formula:"C17H18F3NO",smiles:"CNCCC(c1ccccc1)Oc1ccc(cc1)C(F)(F)F",note:"A pharmaceutical investigated in aquatic exposure and ecotoxicity research.",occ:"Evidence lookup required by matrix and location.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Review organism-specific endpoints and exposure conditions.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Sulfadiazine",aliases:[],class:"Antibiotic",formula:"C10H10N4O2S",smiles:"Nc1ccc(cc1)S(=O)(=O)Nc1ncccs1",note:"A sulfonamide antibiotic relevant to environmental pharmaceutical research.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Azithromycin",aliases:[],class:"Antibiotic",formula:"C38H72N2O12",smiles:"CC[C@H]1OC(=O)[C@@H](C)C[C@@H](C)N(C)[C@@H](C)[C@H](O)[C@@H](C)[C@H](O)[C@H](C)OC(C)C[C@H](C)[C@@H](O)[C@@H]1(C)O",note:"A macrolide antibiotic investigated in wastewater and environmental studies.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Clarithromycin",aliases:[],class:"Antibiotic",formula:"C38H69NO13",smiles:"CC1C(OC(=O)C(C)C)CC(C)C(O)C(C)C(O)C(C)OC(C)C(O)C(C)C(=O)O",note:"A macrolide antibiotic investigated in environmental monitoring.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Erythromycin",aliases:[],class:"Antibiotic",formula:"C37H67NO13",smiles:"CC[C@H]1OC(=O)[C@@H](C)C[C@@H](C)N(C)[C@@H](C)[C@H](O)[C@@H](C)[C@H](O)[C@H](C)OC(C)C[C@H](C)[C@@H](O)[C@@H]1(C)O",note:"A macrolide antibiotic with environmental occurrence and treatment research.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Dicloxacillin",aliases:[],class:"Antibiotic",formula:"C19H17Cl2N3O5S",smiles:"CC1=C(C(=NO1)C2=CC=CC=C2Cl)C(=O)N[C@H]3[C@H](SC3)C(=O)O",note:"A penicillin-class antibiotic; compound-specific environmental evidence needs review.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Ciprofloxacin",aliases:[],class:"Antibiotic",formula:"C17H18FN3O3",smiles:"O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O",note:"A fluoroquinolone antibiotic investigated in wastewater and environmental research.",occ:"Evidence lookup required by matrix and sampling location.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Review aquatic effects and antimicrobial-resistance considerations separately.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Ofloxacin",aliases:[],class:"Antibiotic",formula:"C18H20FN3O4",smiles:"CC1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23",note:"A fluoroquinolone antibiotic investigated in environmental studies.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Doxycycline",aliases:[],class:"Antibiotic",formula:"C22H24N2O8",smiles:"CN(C)[C@@H]1C(=O)C2=C(O)C3(CC(C)(O)C(=O)C3=C(O)C2=O)C(=O)C1(O)",note:"A tetracycline antibiotic relevant to environmental occurrence and fate research.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Tetracycline",aliases:[],class:"Antibiotic",formula:"C22H24N2O8",smiles:"CN(C)[C@@H]1C(=O)C2=C(O)C3(CC(C)(O)C(=O)C3=C(O)C2=O)C(=O)C1(O)",note:"A tetracycline antibiotic studied in environmental contamination research.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Estrone",aliases:[],class:"Hormone",formula:"C18H22O2",smiles:"C[C@]12CC[C@H]3[C@@H]([C@@H]1CC[C@@H]2O)CCc1cc(O)ccc13",note:"A naturally occurring estrogen studied in wastewater and aquatic environments.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Endocrine-related endpoints require careful interpretation.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"17β-Estradiol",aliases:["Estradiol"],class:"Hormone",formula:"C18H24O2",smiles:"C[C@]12CC[C@H]3[C@@H]([C@@H]1CC[C@@H]2O)CCc1cc(O)ccc13",note:"An estrogen hormone investigated in aquatic environmental research.",occ:"Evidence lookup required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Endocrine-related endpoints require organism and assay context.",ww:"Study-level removal evidence required.",mof:"Compound-specific MOF adsorption evidence required."},
+{name:"Bisphenol A",aliases:["BPA"],class:"Industrial chemical comparator",formula:"C15H16O2",smiles:"CC(C)(c1ccc(O)cc1)c1ccc(O)cc1",note:"Not a pharmaceutical; included as an environmental contaminant comparator.",occ:"Environmental monitoring literature exists; source-specific records required.",fate:"Evidence lookup required.",bio:"Evidence lookup required.",eco:"Evidence lookup required.",ww:"Study-level removal evidence required.",mof:"MOF adsorption research may be available; verify exact framework and conditions."}
+];
+const fields=[["Environmental occurrence","occ"],["Persistence & transformation","fate"],["Biodegradation","bio"],["Aquatic ecotoxicity","eco"],["Wastewater treatment","ww"],["MOF adsorption research","mof"]];
+let currentClass="All";
+function go(id){document.querySelectorAll('.page').forEach(x=>x.classList.remove('active'));document.getElementById(id).classList.add('active');document.querySelectorAll('.nav button').forEach(x=>x.classList.toggle('active',x.dataset.page===id));document.getElementById('crumb').textContent=id.toUpperCase();if(id==='search')renderSearch()}
+document.querySelectorAll('.nav button').forEach(b=>b.addEventListener('click',()=>go(b.dataset.page)));
+
+async function openProfile(name) {
+  go('search');
+
+  const c = compounds.find(
+    x => x.name.toLowerCase() === name.toLowerCase()
+  );
+
+  if (!c) return;
+
+  const p = document.getElementById('profile');
+  p.style.display = 'block';
+  p.innerHTML = '<div class="card">Loading compound intelligence and environmental evidence...</div>';
+  p.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+  const esc = value => String(value ?? 'Not reported')
+    .replace(/[&<>"']/g, ch => ({
+      '&': '&amp;',
+      '<': '&lt;',
+      '>': '&gt;',
+      '"': '&quot;',
+      "'": '&#39;'
+    })[ch]);
+
+  try {
+    const encodedName = encodeURIComponent(name);
+
+    const [compoundResponse, environmentResponse] = await Promise.all([
+      fetch(`http://127.0.0.1:8000/api/compound/${encodedName}`),
+      fetch(`http://127.0.0.1:8000/api/environment/${encodedName}`)
+    ]);
+
+    if (!compoundResponse.ok || !environmentResponse.ok) {
+      throw new Error('The backend could not retrieve the requested data.');
+    }
+
+    const compoundData = await compoundResponse.json();
+    const environmentData = await environmentResponse.json();
+
+    const m = compoundData.molecular_properties;
+    const records = environmentData.exact_records || [];
+
+    const properties = [
+      ['Molecular weight', m.molecular_weight],
+      ['LogP', m.logP],
+      ['TPSA', m.tpsa],
+      ['Hydrogen bond donors', m.hydrogen_bond_donors],
+      ['Hydrogen bond acceptors', m.hydrogen_bond_acceptors],
+      ['Rotatable bonds', m.rotatable_bonds],
+      ['Ring count', m.ring_count],
+      ['Heavy atom count', m.heavy_atom_count]
+    ];
+
+    const recordRows = records.slice(0, 10).map(r => `
+      <tr>
+        <td>${esc(r['Matrix'])}</td>
+        <td>${esc(r['Sampling Country'])}</td>
+        <td>${esc(r['Statistics'])}</td>
+        <td>${esc(r['Detection'])}</td>
+        <td>${esc(r['MEC standardized'])}</td>
+        <td>${esc(r['Unit standard'])}</td>
+        <td>${esc(r['Literature Citation'])}</td>
+      </tr>
+    `).join('');
+
+    p.innerHTML = `
+      <div class="card">
+        <div class="profilehead">
+          <div>
+            <div class="eyebrow">CHEMGUARD AI · LIVE RESEARCH PROFILE</div>
+            <div class="profiletitle">${esc(compoundData.compound_name)}</div>
+            <p>${esc(c.note)}</p>
+            <span class="tag teal">PubChem + RDKit verified</span>
+            <span class="tag gold">Environmental evidence from PHARMS-UBA</span>
+          </div>
+          <button class="btn"
+            onclick="document.getElementById('profile').style.display='none'">
+            Close profile
+          </button>
+        </div>
+
+        <div class="grid">
+          <div class="card s4">
+            <div class="tiny">PubChem CID</div>
+            <h2>${esc(compoundData.pubchem_cid)}</h2>
+          </div>
+          <div class="card s4">
+            <div class="tiny">Molecular formula</div>
+            <h2>${esc(m.molecular_formula)}</h2>
+          </div>
+          <div class="card s4">
+            <div class="tiny">Molecular weight</div>
+            <h2>${esc(m.molecular_weight)} g/mol</h2>
+          </div>
+        </div>
+
+        <h2>RDKit molecular properties</h2>
+        <div class="grid">
+          ${properties.map(([label, value]) => `
+            <div class="card s4">
+              <div class="tiny">${esc(label)}</div>
+              <h3>${esc(value)}</h3>
+            </div>
+          `).join('')}
+        </div>
+
+        <div class="card">
+          <h3>Canonical SMILES</h3>
+          <p style="overflow-wrap:anywhere;color:var(--teal);font-family:monospace">
+            ${esc(m.canonical_smiles)}
+          </p>
+          <div class="tiny">InChIKey: ${esc(compoundData.inchikey)}</div>
+        </div>
+
+        <h2>Environmental research evidence</h2>
+        <div class="grid">
+          <div class="card s6">
+            <div class="tiny">Exact parent-compound records</div>
+            <h2>${esc(environmentData.exact_count)}</h2>
+          </div>
+          <div class="card s6">
+            <div class="tiny">Name-related records</div>
+            <h2>${esc(environmentData.related_count)}</h2>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Measured environmental observations</h3>
+          <p>Showing up to 10 exact parent-compound records. Values retain their reported units and study context.</p>
+          ${records.length ? `
+            <div style="overflow-x:auto">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Matrix</th>
+                    <th>Country</th>
+                    <th>Statistic</th>
+                    <th>Detection</th>
+                    <th>Concentration</th>
+                    <th>Unit</th>
+                    <th>Literature</th>
+                  </tr>
+                </thead>
+                <tbody>${recordRows}</tbody>
+              </table>
+            </div>
+          ` : '<p>No exact environmental records found.</p>'}
+        </div>
+
+        <div class="notice">
+          Environmental measurements are observations from published research.
+          They are not toxicity predictions or treatment-efficiency estimates.
+          Related compounds are kept separate from the parent compound.
+        </div>
+      </div>
+    `;
+
+  } catch (error) {
+    p.innerHTML = `
+      <div class="card">
+        <h2>Unable to load compound profile</h2>
+        <p>${esc(error.message)}</p>
+        <p>Check that the ChemGuard AI backend is running on port 8000.</p>
+      </div>
+    `;
+  }
+
+  p.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+function renderSearch(){const q=(document.getElementById('q')?.value||'').toLowerCase().trim();const list=compounds.filter(c=>(currentClass==='All'||c.class===currentClass)&&(!q||[c.name,c.class,...c.aliases].join(' ').toLowerCase().includes(q)));document.getElementById('matchcount').textContent=`${list.length} matching records`;document.getElementById('matches').innerHTML=list.length?list.map(c=>`<div class="resultrow"><div><b>${c.name}</b><div class="tiny">${c.class} · ${c.formula} · ${c.aliases.join(', ')}</div></div><button class="btn" onclick="openProfile('${c.name.replace(/'/g,"\\'")}')">Open profile →</button></div>`).join(''):`<div class="notice">No match in the current local catalogue. This does not mean the compound has no environmental evidence. Search the linked PHARMS-UBA, EPA or other source databases, then add a verified record to the catalogue.</div>`;document.getElementById('profile').style.display='none'}
+function buildChips(){const classes=['All',...new Set(compounds.map(x=>x.class))];document.getElementById('classchips').innerHTML=classes.map(x=>`<button class="chip" onclick="currentClass='${x}';renderSearch()">${x}</button>`).join('')}
+document.getElementById('count').textContent=compounds.length;
+document.getElementById('quicklist').innerHTML=compounds.slice(0,5).map(c=>`<div class="resultrow"><b>${c.name}</b><button class="btn" onclick="openProfile('${c.name}')">View →</button></div>`).join('');
+buildChips();renderSearch();
+
+let mofRecords = [];
+
+function escapeMOF(value) {
+  return String(value ?? "Not reported").replace(/[&<>"']/g, ch => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  })[ch]);
+}
+
+async function searchMOFs() {
+  const search = document.getElementById("mofSearch").value.trim();
+  const adsorbate = document.getElementById("mofAdsorbate").value;
+  const status = document.getElementById("mofStatus");
+  const results = document.getElementById("mofResults");
+  const details = document.getElementById("mofDetails");
+
+  status.textContent = "Searching 137,652 MOF records...";
+  results.innerHTML = "";
+  details.innerHTML = "";
+
+  try {
+    const params = new URLSearchParams({
+      search,
+      adsorbate,
+      limit: 20
+    });
+
+    const response = await fetch(
+      `http://127.0.0.1:8000/api/mofs?${params}`
+    );
+
+    if (!response.ok) {
+      throw new Error("MOF database request failed.");
+    }
+
+    const data = await response.json();
+    mofRecords = data.results || [];
+
+    status.textContent =
+      `Found ${data.total_results.toLocaleString()} matching MOFs. Showing ${data.returned_results} records.`;
+
+    if (!mofRecords.length) {
+      results.innerHTML = '<div class="notice">No matching MOFs found.</div>';
+      return;
+    }
+
+    results.innerHTML = mofRecords.map((m, index) => `
+      <div class="resultrow">
+        <div>
+          <b>${escapeMOF(m.mof_name)}</b>
+          <div class="tiny">
+            ID: ${escapeMOF(m.mof_id)} ·
+            PLD: ${escapeMOF(m.pld_A)} Å ·
+            LCD: ${escapeMOF(m.lcd_A)} Å
+          </div>
+          <div class="chips">
+            <span class="tag teal">
+              ${escapeMOF(m.isotherm_count)} isotherms
+            </span>
+            <span class="tag">
+              ${escapeMOF(m.adsorbates)}
+            </span>
+          </div>
+        </div>
+        <button class="btn" onclick="showMOFDetails(${index})">
+          View details →
+        </button>
+      </div>
+    `).join("");
+
+  } catch (error) {
+    status.textContent = "Unable to connect to the MOF database.";
+    results.innerHTML = `
+      <div class="notice">
+        ${escapeMOF(error.message)}
+        Check that FastAPI is running on port 8000.
+      </div>
+    `;
+  }
+}
+
+
+function formatMOFElements(value) {
+  if (!value) return "Not reported";
+
+  try {
+    return value.split("; ").map(item => {
+      const element = JSON.parse(item);
+      return element.symbol || element.name || item;
+    }).join(", ");
+  } catch {
+    return value;
+  }
+}
+function showMOFDetails(index) {
+  const m = mofRecords[index];
+  if (!m) return;
+
+  const details = document.getElementById("mofDetails");
+
+  const properties = [
+    ["MOF name", m.mof_name],
+    ["MOF ID", m.mof_id],
+    ["Database", m.database],
+    ["Largest cavity diameter (LCD)", m.lcd_A + " Å"],
+    ["Pore limiting diameter (PLD)", m.pld_A + " Å"],
+    ["Surface area", m.surface_area_m2g + " m²/g"],
+    ["Volumetric surface area", m.surface_area_m2cm3 + " m²/cm³"],
+    ["Void fraction", m.void_fraction],
+    ["Elements", formatMOFElements(m.elements)],
+    ["Available adsorbates", m.adsorbates],
+    ["Isotherm count", m.isotherm_count],
+    ["Temperatures (K)", m.temperatures_K],
+    ["Minimum pressure (bar)", m.pressure_min_bar],
+    ["Maximum pressure (bar)", m.pressure_max_bar],
+    ["DOI references", m.doi_references]
+  ];
+
+  details.innerHTML = `
+    <div class="card" style="margin-top:18px">
+      <div class="profilehead">
+        <div>
+          <div class="eyebrow">MOF DATABASE RECORD</div>
+          <h2>${escapeMOF(m.mof_name)}</h2>
+        </div>
+        <button class="btn"
+          onclick="document.getElementById('mofDetails').innerHTML=''">
+          Close
+        </button>
+      </div>
+
+      <div class="grid">
+        ${properties.map(([label, value]) => `
+          <div class="card s6">
+            <div class="tiny">${escapeMOF(label)}</div>
+            <div>${escapeMOF(value)}</div>
+          </div>
+        `).join("")}
+      </div>
+
+      <div class="notice">
+        These are database structural descriptors and existing gas
+        adsorption metadata. They do not establish pharmaceutical
+        adsorption performance in water.
+      </div>
+    </div>
+  `;
+
+  details.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+document.getElementById("mofSearch").addEventListener("keydown", event => {
+  if (event.key === "Enter") searchMOFs();
+});
+</script></body></html>

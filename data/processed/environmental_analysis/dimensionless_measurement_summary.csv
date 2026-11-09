@@ -1,0 +1,742 @@
+Name of Analyte,Matrix,Sampling Country,Statistics,observation_count,minimum,median,maximum
+"10,11-Dihydro-10,11-Dihydroxy Carbamazepine",WWTP effluent (treated),Germany,Fraction of positive detections,1,1.0,1.0,1.0
+"10,11-Dihydrocarbamazepine",WWTP effluent (treated),Germany,Fraction of positive detections,1,0.888888888888889,0.888888888888889,0.888888888888889
+17-alpha-Estradiol,Surface Water - River/Stream,China,Fraction of positive detections,2,10.0,23.75,37.5
+17-alpha-Ethinylestradiol,Drinking Water,USA,Fraction of positive detections,1,0.0,0.0,0.0
+17-alpha-Ethinylestradiol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+17-alpha-Ethinylestradiol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+17-alpha-Ethinylestradiol,Surface Water - River/Stream,China,Fraction of positive detections,2,0.0,6.25,12.5
+17-alpha-Ethinylestradiol,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.0,0.0,0.0
+17-alpha-Ethinylestradiol,WWTP effluent (treated),China,Fraction of positive detections,1,94.11,94.11,94.11
+17-alpha-Ethinylestradiol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0373831775700935,0.0373831775700935,0.0373831775700935
+17-beta-Estradiol,Drinking Water,USA,Fraction of positive detections,1,0.0,0.0,0.0
+17-beta-Estradiol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+17-beta-Estradiol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+17-beta-Estradiol,Surface Water - River/Stream,China,Fraction of positive detections,3,0.0,21.0,25.0
+17-beta-Estradiol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+17-beta-Estradiol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.205357142857143,0.205357142857143,0.205357142857143
+4-Acetaminoantipyrine,Surface Water - unspecific,Germany,Fraction of positive detections,1,1.0,1.0,1.0
+4-Aminoantipyrine,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+4-Aminoantipyrine,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+5-beta-coprostanol,Surface Water - River/Stream,China,Fraction of positive detections,2,70.0,77.85,85.7
+Acetylsalicylic acid,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,5.88,25.0,37.5
+Acetylsalicylic acid,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,58.33,75.0,83.33
+Ambroxol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Ambroxol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Amitryptiline,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,83.3333333333333
+Amoxicillin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.03125,0.0625
+Amoxicillin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.01,0.02
+Amoxicillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.164179104477612,0.164179104477612,0.164179104477612
+Amphetamine,WWTP effluent (treated),Mexico,Max,2,0.1,0.45,0.8
+Amphetamine,WWTP inflow (untreated),Mexico,Max,1,1.3,1.3,1.3
+Amphetamine,WWTP inflow (untreated),Mexico,Mean,1,0.5,0.5,0.5
+Ampicillin,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Ampicillin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Ampicillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0895522388059702,0.0895522388059702,0.0895522388059702
+Ampicillin,WWTP effluent (treated),Mexico,Max,1,37.7,37.7,37.7
+Ampicillin,WWTP effluent (treated),Mexico,Mean,1,15.5,15.5,15.5
+Ampicillin,WWTP inflow (untreated),Mexico,Max,1,44.0,44.0,44.0
+Ampicillin,WWTP inflow (untreated),Mexico,Mean,1,17.1,17.1,17.1
+Androsterone,WWTP effluent (treated),Mexico,Max,1,7.3,7.3,7.3
+Androsterone,WWTP effluent (treated),Mexico,Mean,1,2.6,2.6,2.6
+Androsterone,WWTP inflow (untreated),Mexico,Max,1,9.5,9.5,9.5
+Androsterone,WWTP inflow (untreated),Mexico,Mean,1,2.9,2.9,2.9
+Anhydroerythromycin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.142857142857143,0.285714285714286
+Anhydroerythromycin,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Anhydroerythromycin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.477941176470588,0.6764705882352939,0.875
+Anhydroerythromycin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.798507462686567,0.798507462686567,0.798507462686567
+Atenolol,Drinking Water,China,Fraction of positive detections,4,0.0,19.64,50.0
+Atenolol,Drinking Water,USA,Fraction of positive detections,1,0.444444444444444,0.444444444444444,0.444444444444444
+Atenolol,Groundwater,Germany,Fraction of positive detections,3,0.0,0.0,0.0
+Atenolol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Atenolol,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.185185185185185,0.185185185185185,0.185185185185185
+Atenolol,Surface Water - River/Stream,Japan,Fraction of positive detections,3,28.5714285714286,40.0,100.0
+Atenolol,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.289719626168224,0.364705882352941,0.6875
+Atenolol,WWTP effluent (treated),France,Fraction of positive detections,1,12.0,12.0,12.0
+Atenolol,WWTP effluent (treated),Germany,Fraction of positive detections,2,0.866666666666667,0.9333333333333336,1.0
+Atenolol,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Atorvastatin,Drinking Water,Brazil,Max,6,0.0,0.401,0.657
+Atorvastatin,Drinking Water,USA,Fraction of positive detections,1,0.0,0.0,0.0
+Atorvastatin,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.523,1.02
+Azithromycin,Drinking Water,China,Fraction of positive detections,23,0.0,0.0,80.0
+Azithromycin,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Azithromycin,Surface Water - River/Stream,China,Fraction of positive detections,5,0.0,91.0,100.0
+Azithromycin,Surface Water - River/Stream,Japan,Fraction of positive detections,3,100.0,100.0,100.0
+Azithromycin,Surface Water - Sea or Ocean,China,Fraction of positive detections,2,22.0,23.85,25.7
+Azithromycin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.137931034482759,0.294120796744485,0.450310559006211
+Azithromycin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.641791044776119,0.641791044776119,0.641791044776119
+Benzoylecgonine,WWTP effluent (treated),Mexico,Max,1,4.8,4.8,4.8
+Benzoylecgonine,WWTP effluent (treated),Mexico,Mean,1,2.4,2.4,2.4
+Benzoylecgonine,WWTP inflow (untreated),Mexico,Max,1,18.1,18.1,18.1
+Benzoylecgonine,WWTP inflow (untreated),Mexico,Mean,1,4.5,4.5,4.5
+Benzylpenicillin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Benzylpenicillin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Benzylpenicillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Benzylpenicillin,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,6.25,12.5
+Benzylpenicillin,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,6.25,12.5
+Betamethasone,Drinking Water,Brazil,Max,6,0.56,1.788,2.62
+Betamethasone,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,2.986,4.354,11.96
+Betaxolol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Betaxolol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Betaxolol,WWTP effluent (treated),Germany,Fraction of positive detections,2,0.0,0.0555555555555555,0.111111111111111
+Bezafibrate,Groundwater,Germany,Fraction of positive detections,2,0.0285714285714286,0.1447204968944098,0.260869565217391
+Bezafibrate,Riverbank filtration,Germany,Fraction of positive detections,1,0.166666666666667,0.166666666666667,0.166666666666667
+Bezafibrate,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.62962962962963,0.62962962962963,0.62962962962963
+Bezafibrate,Surface Water - River/Stream,Japan,Fraction of positive detections,3,71.4285714285714,85.0,100.0
+Bezafibrate,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.539130434782609,0.562315996074583,0.8125
+Bezafibrate,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.891891891891892,0.891891891891892,0.891891891891892
+Bisoprolol,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Bisoprolol,Riverbank filtration,Germany,Fraction of positive detections,1,0.03125,0.03125,0.03125
+Bisoprolol,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.0760233918128655,0.381372549019608,0.625
+Bisoprolol,WWTP effluent (treated),Germany,Fraction of positive detections,2,0.721854304635762,0.860927152317881,1.0
+Brompheniramine,WWTP effluent (treated),Mexico,Max,1,18.6,18.6,18.6
+Brompheniramine,WWTP effluent (treated),Mexico,Mean,1,5.4,5.4,5.4
+Brompheniramine,WWTP inflow (untreated),Mexico,Max,1,19.2,19.2,19.2
+Brompheniramine,WWTP inflow (untreated),Mexico,Mean,1,5.5,5.5,5.5
+Carazolol,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Carazolol,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Carazolol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Carbamazepine,Drinking Water,China,Fraction of positive detections,27,0.0,0.0,80.0
+Carbamazepine,Drinking Water,USA,Fraction of positive detections,1,0.444444444444444,0.444444444444444,0.444444444444444
+Carbamazepine,Groundwater,Germany,Fraction of positive detections,2,0.0326797385620915,0.28557063851181475,0.538461538461538
+Carbamazepine,Riverbank filtration,Germany,Fraction of positive detections,1,0.375,0.375,0.375
+Carbamazepine,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.950617283950617,0.950617283950617,0.950617283950617
+Carbamazepine,Surface Water - River/Stream,Japan,Fraction of positive detections,3,78.5714285714286,80.0,100.0
+Carbamazepine,Surface Water - unspecific,Germany,Fraction of positive detections,4,0.599246359099705,0.77805128933914,1.0
+Carbamazepine,WWTP effluent (treated),China,Fraction of positive detections,1,100.0,100.0,100.0
+Carbamazepine,WWTP effluent (treated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Carbamazepine,WWTP effluent (treated),Germany,Fraction of positive detections,2,0.940298507462687,0.9701492537313434,1.0
+Carbamazepine,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,5,0.5,75.0,100.0
+Carbamazepine,WWTP effluent (treated),South Africa,unknown,1,0.0,0.0,0.0
+Carbamazepine,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Carbamazepine,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,37.5,70.83500000000001,100.0
+Carbazochrome,Drinking Water,China,Fraction of positive detections,4,28.57,60.7,75.0
+Cefaclor,WWTP effluent (treated),Mexico,Max,1,12.1,12.1,12.1
+Cefaclor,WWTP effluent (treated),Mexico,Mean,1,2.3,2.3,2.3
+Cefaclor,WWTP inflow (untreated),Mexico,Max,1,15.3,15.3,15.3
+Cefaclor,WWTP inflow (untreated),Mexico,Mean,1,3.2,3.2,3.2
+Cefadroxil,WWTP effluent (treated),Mexico,Max,1,15.0,15.0,15.0
+Cefadroxil,WWTP effluent (treated),Mexico,Mean,1,4.7,4.7,4.7
+Cefadroxil,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,0.0,0.0
+Cefadroxil,WWTP inflow (untreated),Mexico,Max,1,18.1,18.1,18.1
+Cefadroxil,WWTP inflow (untreated),Mexico,Mean,1,5.0,5.0,5.0
+Cefadroxil,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,0.0,16.67
+Cefradine,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,2.94,12.5
+Cefradine,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,25.0,63.33
+Celiprolol,WWTP effluent (treated),Germany,Fraction of positive detections,1,1.0,1.0,1.0
+Chloral hydrate,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Chloramphenicol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Chloramphenicol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Chloramphenicol,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,27.7777777777778
+Chloramphenicol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Chloramphenicol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0232558139534884,0.0232558139534884,0.0232558139534884
+Chlorpromazine,Sewage hospital (untreated),Brazil,Mean,14,0.0,0.0,0.52
+Chlortetracycline,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Chlortetracycline,Manure - dung,China,Fraction of positive detections,3,42.6,42.6,82.1
+Chlortetracycline,Soil,China,Fraction of positive detections,4,0.0,61.0,98.0
+Chlortetracycline,Surface Water - River/Stream,China,Fraction of positive detections,1,100.0,100.0,100.0
+Chlortetracycline,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Chlortetracycline,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Chlortetracycline,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,8.82,18.75,25.0
+Chlortetracycline,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,7.915,25.0
+Ciprofloxacin,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Ciprofloxacin,Manure - dung,China,Fraction of positive detections,3,24.6,25.0,40.7
+Ciprofloxacin,Surface Water - River/Stream,China,Fraction of positive detections,1,91.0,91.0,91.0
+Ciprofloxacin,Surface Water - Sea or Ocean,China,Fraction of positive detections,1,93.0,93.0,93.0
+Ciprofloxacin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0363636363636364,0.0363636363636364,0.0363636363636364
+Ciprofloxacin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.388059701492537,0.388059701492537,0.388059701492537
+Ciprofloxacin,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,8.82,12.5,25.0
+Ciprofloxacin,WWTP effluent (treated),United Arab Emirates,Mean,1,0.543,0.543,0.543
+Ciprofloxacin,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,21.65,62.5
+Ciprofloxacin,WWTP inflow (untreated),United Arab Emirates,Mean,1,0.863,0.863,0.863
+Ciprofloxacin,WWTP sludge,China,Fraction of positive detections,1,100.0,100.0,100.0
+Ciprofloxacin,sewage sludge,China,unknown,1,0.0629,0.0629,0.0629
+Citalopram,Drinking Water,United Kingdom,Max,1,0.0028,0.0028,0.0028
+Citalopram,Raw Water - Drinking Water Treatment Plant,United Kingdom,Max,1,0.0,0.0,0.0
+Clarithromycin,Drinking Water,China,Fraction of positive detections,27,0.0,0.0,80.0
+Clarithromycin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0714285714285715,0.142857142857143
+Clarithromycin,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.0,0.199
+Clarithromycin,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Clarithromycin,Surface Water - River/Stream,China,Fraction of positive detections,5,0.0,87.0,100.0
+Clarithromycin,Surface Water - River/Stream,Japan,Fraction of positive detections,3,100.0,100.0,100.0
+Clarithromycin,Surface Water - River/Stream,Spain,Average,1,0.0,0.0,0.0
+Clarithromycin,Surface Water - Sea or Ocean,China,Fraction of positive detections,2,25.7,31.35,37.0
+Clarithromycin,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.348377997179126,0.352941176470588,0.5
+Clarithromycin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.686567164179104,0.686567164179104,0.686567164179104
+Clenbuterol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Clenbuterol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Clenbuterol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.00292397660818716,0.00584795321637432
+Clenbuterol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.00649350649350644,0.00649350649350644,0.00649350649350644
+Clindamycin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.523809523809524,0.523809523809524,0.523809523809524
+Clindamycin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.78,0.78,0.78
+Clofibric acid,Drinking Water,China,Fraction of positive detections,23,0.0,0.0,100.0
+Clofibric acid,Groundwater,Germany,Fraction of positive detections,2,0.0067567567567568,0.2176640926640929,0.428571428571429
+Clofibric acid,Riverbank filtration,Germany,Fraction of positive detections,1,0.5,0.5,0.5
+Clofibric acid,Surface Water - River/Stream,China,Fraction of positive detections,3,57.0,71.4,100.0
+Clofibric acid,Surface Water - River/Stream,Japan,Fraction of positive detections,3,45.0,50.0,66.6666666666667
+Clofibric acid,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.0528233151183971,0.316455696202532,0.894736842105263
+Clofibric acid,WWTP effluent (treated),China,Fraction of positive detections,1,100.0,100.0,100.0
+Clofibric acid,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.797752808988764,0.797752808988764,0.797752808988764
+Clofibric acid,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,1,0.882352941176471,0.882352941176471,0.882352941176471
+Clonazepam,WWTP effluent (treated),Mexico,Max,1,1.3,1.3,1.3
+Clonazepam,WWTP effluent (treated),Mexico,Mean,1,0.7,0.7,0.7
+Clonazepam,WWTP inflow (untreated),Mexico,Max,1,2.8,2.8,2.8
+Clonazepam,WWTP inflow (untreated),Mexico,Mean,1,1.3,1.3,1.3
+Cloxacillin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Cloxacillin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Cloxacillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Clozapine,Sewage hospital (untreated),Brazil,Mean,14,0.0,0.745,0.97
+Codeine,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Codeine,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0484848484848485,0.096969696969697
+Codeine,WWTP effluent (treated),France,Fraction of positive detections,1,12.0,12.0,12.0
+Codeine,WWTP effluent (treated),Germany,Fraction of positive detections,2,0.722222222222222,0.8611111111111109,1.0
+Codeine,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Crotamiton,Surface Water - River/Stream,Japan,Fraction of positive detections,3,85.7142857142857,100.0,100.0
+Cyclophosphamide,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Cyclophosphamide,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Cyclophosphamide,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0136363636363636,0.0272727272727272
+Cyclophosphamide,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0659340659340659,0.0659340659340659,0.0659340659340659
+Danofloxacin,Drinking Water,Brazil,Max,6,0.0,0.0,0.042
+Danofloxacin,Manure - dung,China,Fraction of positive detections,3,25.0,25.9,29.5
+Danofloxacin,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.041,0.272
+Danofloxacin,Surface Water - River/Stream,China,Fraction of positive detections,1,50.0,50.0,50.0
+Dapsone,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Dapsone,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0833333333333335,0.166666666666667
+Diatrizoic acid,Groundwater,Germany,Fraction of positive detections,2,0.222222222222222,0.3034188034188035,0.384615384615385
+Diatrizoic acid,Riverbank filtration,Germany,Fraction of positive detections,1,0.5,0.5,0.5
+Diatrizoic acid,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.876543209876543,0.876543209876543,0.876543209876543
+Diatrizoic acid,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.671052631578947,0.8125,0.979820627802691
+Diatrizoic acid,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.48,0.48,0.48
+Diazepam,Drinking Water,USA,Fraction of positive detections,1,0.0555555555555556,0.0555555555555556,0.0555555555555556
+Diazepam,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Diazepam,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Diazepam,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.00202020202020202,0.0114942528735632,0.0625
+Diazepam,WWTP effluent (treated),France,Fraction of positive detections,1,1.0,1.0,1.0
+Diazepam,WWTP effluent (treated),Germany,Fraction of positive detections,2,0.0,0.03594771241830065,0.0718954248366013
+Diazepam,WWTP inflow (untreated),France,Fraction of positive detections,1,1.0,1.0,1.0
+Diclofenac,Drinking Water,China,Fraction of positive detections,23,0.0,0.0,40.0
+Diclofenac,Drinking Water,USA,Fraction of positive detections,1,0.0,0.0,0.0
+Diclofenac,Groundwater,Germany,Fraction of positive detections,2,0.0232558139534884,0.1025369978858352,0.181818181818182
+Diclofenac,Riverbank filtration,Germany,Fraction of positive detections,1,0.233333333333333,0.233333333333333,0.233333333333333
+Diclofenac,Surface Water - River/Stream,China,Fraction of positive detections,1,100.0,100.0,100.0
+Diclofenac,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.950617283950617,0.950617283950617,0.950617283950617
+Diclofenac,Surface Water - River/Stream,Japan,Fraction of positive detections,3,14.2857142857143,20.0,50.0
+Diclofenac,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.629213483146067,0.830866807610994,0.947368421052632
+Diclofenac,WWTP effluent (treated),China,Fraction of positive detections,1,100.0,100.0,100.0
+Diclofenac,WWTP effluent (treated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Diclofenac,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.954545454545455,0.954545454545455,0.954545454545455
+Diclofenac,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,5,0.705882352941177,37.5,64.7
+Diclofenac,WWTP effluent (treated),South Africa,unknown,1,0.0,0.0,0.0
+Diclofenac,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Diclofenac,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,22.5,33.3
+Dicloxacillin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Dicloxacillin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Dicloxacillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Diethylstilbestrol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Diethylstilbestrol,Surface Water - River/Stream,China,Fraction of positive detections,3,0.0,0.0,84.0
+Diethylstilbestrol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Diethylstilbestrol,WWTP effluent (treated),China,Fraction of positive detections,1,58.823,58.823,58.823
+Difloxacin,Manure - dung,China,Fraction of positive detections,3,3.3,3.6,9.3
+Difloxacin,WWTP sludge,China,Fraction of positive detections,1,9.0,9.0,9.0
+Dihydrocodeine,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Dihydrocodeine,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.00606060606060605,0.0121212121212121
+Dihydrocodeine,WWTP effluent (treated),Germany,Fraction of positive detections,2,0.533333333333333,0.7666666666666665,1.0
+Diltiazem,Surface Water - River/Stream,Japan,Fraction of positive detections,3,42.8571428571429,55.0,100.0
+Dimethylaminophenazone,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0714285714285715,0.142857142857143
+Dimethylaminophenazone,Riverbank filtration,Germany,Fraction of positive detections,1,0.125,0.125,0.125
+Dimethylaminophenazone,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0337078651685393,0.04810393258426965,0.0625
+Dimethylaminophenazone,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.064935064935065,0.064935064935065,0.064935064935065
+Dimetridazole,Drinking Water,China,Fraction of positive detections,23,0.0,0.0,100.0
+Dipyridamole,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,22.2222222222222
+Disopyramide,Drinking Water,China,Fraction of positive detections,4,0.0,7.14,28.57
+Disopyramide,Surface Water - River/Stream,Japan,Fraction of positive detections,3,92.8571428571429,100.0,100.0
+Doxepin,WWTP effluent (treated),France,Fraction of positive detections,1,11.0,11.0,11.0
+Doxepin,WWTP effluent (treated),Germany,Fraction of positive detections,1,1.0,1.0,1.0
+Doxepin,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Doxycycline,Manure - dung,China,Fraction of positive detections,3,7.1,9.3,23.0
+Doxycycline,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Doxycycline,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Enoxacin,Drinking Water,Brazil,Max,6,0.0,0.0,0.219
+Enoxacin,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.24,0.386
+Enoxacin,Surface Water - River/Stream,China,Fraction of positive detections,2,50.0,70.5,91.0
+Enoxacin,Surface Water - Sea or Ocean,China,Fraction of positive detections,1,89.0,89.0,89.0
+Enrofloxacin,Drinking Water,Brazil,Max,6,0.0,0.0,0.219
+Enrofloxacin,Manure - dung,China,Fraction of positive detections,3,35.2,49.2,64.3
+Enrofloxacin,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.013,0.071
+Enrofloxacin,Surface Water - River/Stream,China,Fraction of positive detections,1,57.0,57.0,57.0
+Enrofloxacin,Surface Water - Sea or Ocean,China,Fraction of positive detections,1,30.0,30.0,30.0
+Enrofloxacin,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,2.94,12.5,12.5
+Enrofloxacin,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,7.915,16.67
+Enrofloxacin,WWTP sludge,China,Fraction of positive detections,1,100.0,100.0,100.0
+Enrofloxacin,sewage sludge,China,unknown,1,0.0253,0.0253,0.0253
+Erythromycin,Surface Water - River/Stream,China,Fraction of positive detections,4,0.0,26.5,100.0
+Erythromycin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.401294498381877,0.401294498381877,0.401294498381877
+Erythromycin,WWTP effluent (treated),United Arab Emirates,Mean,1,0.541,0.541,0.541
+Erythromycin,WWTP inflow (untreated),United Arab Emirates,Mean,1,0.785,0.785,0.785
+Erythromycin-A dihydrate,WWTP sludge,China,Fraction of positive detections,1,17.0,17.0,17.0
+Erythromycin-H2O,Surface Water - River/Stream,China,Fraction of positive detections,1,100.0,100.0,100.0
+Erythromycin-H2O,Surface Water - Sea or Ocean,China,Fraction of positive detections,2,100.0,100.0,100.0
+Erythromycin-H2O,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,2.94,12.5,25.0
+Erythromycin-H2O,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,12.5,25.0,46.67
+Estradiol,WWTP effluent (treated),China,Fraction of positive detections,1,88.23,88.23,88.23
+Estradiol-17-valerate,WWTP effluent (treated),China,Fraction of positive detections,1,29.41,29.41,29.41
+Estriol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Estriol,Surface Water - River/Stream,China,Fraction of positive detections,3,0.0,12.5,16.0
+Estriol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Estriol,WWTP effluent (treated),China,Fraction of positive detections,1,64.7,64.7,64.7
+Estrone,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Estrone,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Estrone,Surface Water - River/Stream,China,Fraction of positive detections,3,30.0,79.0,100.0
+Estrone,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.004672897196261685,0.00934579439252337
+Estrone,WWTP effluent (treated),China,Fraction of positive detections,1,100.0,100.0,100.0
+Estrone,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.274336283185841,0.274336283185841,0.274336283185841
+Ethenzamide,Surface Water - River/Stream,Japan,Fraction of positive detections,3,35.7142857142857,40.0,83.3333333333333
+Fenofibrate,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.0,1.388
+Fenofibric acid,Groundwater,Germany,Fraction of positive detections,2,0.166666666666667,0.230392156862745,0.294117647058823
+Fenofibric acid,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.100362756952842,0.202702702702703,1.0
+Fenofibric acid,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.736111111111111,0.736111111111111,0.736111111111111
+Fenoprofen,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Fenoprofen,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.131578947368421,0.263157894736842
+Fenoprofen,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Fenoprofen,WWTP effluent (treated),South Africa,unknown,1,0.0,0.0,0.0
+Fenoterol,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Fenoterol,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Fenoterol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Fexofenadine,WWTP effluent (treated),Mexico,Max,1,33.6,33.6,33.6
+Fexofenadine,WWTP effluent (treated),Mexico,Mean,1,12.7,12.7,12.7
+Fexofenadine,WWTP inflow (untreated),Mexico,Max,1,147.9,147.9,147.9
+Fexofenadine,WWTP inflow (untreated),Mexico,Mean,1,31.1,31.1,31.1
+Fleroxacin,Manure - dung,China,Fraction of positive detections,3,3.6,29.5,29.6
+Fleroxacin,WWTP sludge,China,Fraction of positive detections,1,100.0,100.0,100.0
+Florfenicol,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,6.25,50.0
+Florfenicol,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,0.0,62.5
+Flucloxacillin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Flucloxacillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0588235294117647,0.0588235294117647,0.0588235294117647
+Fluconazole,Drinking Water,Brazil,Max,6,0.0,0.4395,0.75
+Fluconazole,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.763,1.413
+Fluoxetine,Drinking Water,USA,Fraction of positive detections,1,0.111111111111111,0.111111111111111,0.111111111111111
+Fluoxetine,Drinking Water,United Kingdom,Max,1,0.0003,0.0003,0.0003
+Fluoxetine,Raw Water - Drinking Water Treatment Plant,United Kingdom,Max,1,0.0027,0.0027,0.0027
+Fluoxetine,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Furazolidone,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Furazolidone,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Furosemide,Surface Water - River/Stream,Japan,Fraction of positive detections,3,7.14285714285714,10.0,100.0
+Gemfibrozil,Drinking Water,Brazil,Max,6,0.0,0.0525,0.293
+Gemfibrozil,Drinking Water,USA,Fraction of positive detections,1,0.388888888888889,0.388888888888889,0.388888888888889
+Gemfibrozil,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Gemfibrozil,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.012,0.37,0.948
+Gemfibrozil,Surface Water - River/Stream,China,Fraction of positive detections,3,0.0,0.0,43.0
+Gemfibrozil,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.0096969696969697,0.207547169811321,1.0
+Gemfibrozil,WWTP effluent (treated),China,Fraction of positive detections,1,63.0,63.0,63.0
+Gemfibrozil,WWTP effluent (treated),France,Fraction of positive detections,1,2.0,2.0,2.0
+Gemfibrozil,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.588235294117647,0.588235294117647,0.588235294117647
+Gemfibrozil,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,1,0.0,0.0,0.0
+Gemfibrozil,WWTP inflow (untreated),France,Fraction of positive detections,1,4.0,4.0,4.0
+Griseofulvin,Surface Water - River/Stream,Japan,Fraction of positive detections,3,16.6666666666667,21.4285714285714,25.0
+Haloperidol,Sewage hospital (untreated),Brazil,Mean,10,0.0,1.63,2.73
+Haloperidol,Sewage hospital (untreated),Brazil,Smaller than,4,0.0,1.4,1.4
+Haloperidol,Surface Water - River/Stream,Japan,Fraction of positive detections,3,5.0,14.2857142857143,44.4444444444444
+Hexestrol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Hexestrol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Hydrocodone,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Hydrocodone,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Hydrocodone,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.352941176470588,0.352941176470588,0.352941176470588
+Ibuprofen,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0476190476190476,0.0952380952380952
+Ibuprofen,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.0,0.333
+Ibuprofen,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Ibuprofen,Surface Water - River/Stream,China,Fraction of positive detections,3,80.0,85.7,100.0
+Ibuprofen,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.197530864197531,0.197530864197531,0.197530864197531
+Ibuprofen,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,33.3333333333333
+Ibuprofen,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.126582278481013,0.179764243614931,0.684210526315789
+Ibuprofen,WWTP effluent (treated),China,Fraction of positive detections,1,100.0,100.0,100.0
+Ibuprofen,WWTP effluent (treated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Ibuprofen,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.691011235955056,0.691011235955056,0.691011235955056
+Ibuprofen,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,5,0.0,0.0,0.705882352941177
+Ibuprofen,WWTP effluent (treated),South Africa,unknown,1,0.0,0.0,0.0
+Ibuprofen,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Ibuprofen,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,0.0,0.0
+Ifenprodil,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,83.3333333333333
+Ifosfamide,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Ifosfamide,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Ifosfamide,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0136363636363636,0.0272727272727272
+Ifosfamide,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0568181818181818,0.0568181818181818,0.0568181818181818
+Indometacin,Drinking Water,China,Fraction of positive detections,4,0.0,0.0,14.28
+Indometacin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.1,0.2
+Indometacin,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Indometacin,Surface Water - River/Stream,Japan,Fraction of positive detections,3,5.0,21.4285714285714,94.4444444444444
+Indometacin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.094017094017094,0.4636752136752135,0.833333333333333
+Indometacin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.549019607843137,0.549019607843137,0.549019607843137
+Iohexol,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.493827160493827,0.493827160493827,0.493827160493827
+Iomeprol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Iomeprol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0333333333333333,0.0333333333333333,0.0333333333333333
+Iomeprol,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.728395061728395,0.728395061728395,0.728395061728395
+Iomeprol,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.618421052631579,0.6875,0.939597315436242
+Iomeprol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.56,0.56,0.56
+Iopamidol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.1153846153846155,0.230769230769231
+Iopamidol,Riverbank filtration,Germany,Fraction of positive detections,1,0.4,0.4,0.4
+Iopamidol,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.839506172839506,0.839506172839506,0.839506172839506
+Iopamidol,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.802631578947368,0.875,0.986547085201794
+Iopamidol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.48,0.48,0.48
+Iopromide,Groundwater,Germany,Fraction of positive detections,2,0.0,0.076923076923077,0.153846153846154
+Iopromide,Riverbank filtration,Germany,Fraction of positive detections,1,0.0666666666666667,0.0666666666666667,0.0666666666666667
+Iopromide,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.604938271604938,0.604938271604938,0.604938271604938
+Iopromide,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.747203579418344,0.8125,0.828947368421053
+Iopromide,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.66,0.66,0.66
+Ioxitalminic acid,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.0246913580246914,0.0246913580246914,0.0246913580246914
+Josamycin,Surface Water - River/Stream,Japan,Fraction of positive detections,3,7.14285714285714,10.0,38.8888888888889
+Josamycin,WWTP sludge,China,Fraction of positive detections,1,3.0,3.0,3.0
+Ketamine,Drinking Water,United Kingdom,Max,1,0.0011,0.0011,0.0011
+Ketamine,Raw Water - Drinking Water Treatment Plant,United Kingdom,Max,1,0.0112,0.0112,0.0112
+Ketoprofen,Drinking Water,Brazil,Max,6,0.0,0.196,0.561
+Ketoprofen,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0714285714285715,0.142857142857143
+Ketoprofen,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.3,1.02
+Ketoprofen,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Ketoprofen,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,5.0,83.3333333333333
+Ketoprofen,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0254777070063694,0.0916862219242372,0.157894736842105
+Ketoprofen,WWTP effluent (treated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Ketoprofen,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.253846153846154,0.253846153846154,0.253846153846154
+Ketoprofen,WWTP effluent (treated),South Africa,unknown,1,0.0,0.0,0.0
+Ketoprofen,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Lasalocid,Surface Water - River/Stream,Argentina,Max,4,0.008,0.0835,0.337
+Lasalocid,Surface Water - River/Stream,Argentina,Mean,1,0.0415,0.0415,0.0415
+Lasalocid,Surface Water - River/Stream,Argentina,Median,2,0.0026,0.009500000000000001,0.0164
+Levofloxacin,Surface Water - River/Stream,Japan,Fraction of positive detections,3,50.0,50.0,100.0
+Levothyroxine,WWTP effluent (treated),Mexico,Max,1,37.6,37.6,37.6
+Levothyroxine,WWTP effluent (treated),Mexico,Mean,1,5.4,5.4,5.4
+Levothyroxine,WWTP inflow (untreated),Mexico,Max,1,55.0,55.0,55.0
+Levothyroxine,WWTP inflow (untreated),Mexico,Mean,1,6.1,6.1,6.1
+Lidocaine,WWTP effluent (treated),Mexico,Max,1,7.7,7.7,7.7
+Lidocaine,WWTP effluent (treated),Mexico,Mean,1,1.4,1.4,1.4
+Lidocaine,WWTP inflow (untreated),Mexico,Max,1,11.0,11.0,11.0
+Lidocaine,WWTP inflow (untreated),Mexico,Mean,1,1.9,1.9,1.9
+Lincomycin,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,37.5,51.1,75.0
+Lincomycin,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,16.67,72.5,100.0
+Lomefloxacin,Manure - dung,China,Fraction of positive detections,3,21.3,32.1,42.6
+Lomefloxacin,WWTP sludge,China,Fraction of positive detections,1,100.0,100.0,100.0
+Loratadine,Drinking Water,Brazil,Max,6,0.0,0.0,0.067
+Loratadine,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.119,0.486
+Lormetazepam,WWTP effluent (treated),Mexico,Max,1,27.4,27.4,27.4
+Lormetazepam,WWTP effluent (treated),Mexico,Mean,1,12.2,12.2,12.2
+Lormetazepam,WWTP inflow (untreated),Mexico,Max,1,30.7,30.7,30.7
+Lormetazepam,WWTP inflow (untreated),Mexico,Mean,1,13.5,13.5,13.5
+Maprotiline,WWTP effluent (treated),Mexico,Max,1,14.6,14.6,14.6
+Maprotiline,WWTP effluent (treated),Mexico,Mean,1,4.2,4.2,4.2
+Maprotiline,WWTP inflow (untreated),Mexico,Max,1,15.7,15.7,15.7
+Maprotiline,WWTP inflow (untreated),Mexico,Mean,1,4.3,4.3,4.3
+Mefenamic acid,Surface Water - River/Stream,China,Fraction of positive detections,1,30.0,30.0,30.0
+Mefenamic acid,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,38.8888888888889
+Mefenamic acid,WWTP effluent (treated),China,Fraction of positive detections,1,100.0,100.0,100.0
+Mefenamic acid,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,6.25,23.53
+Mefenamic acid,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,25.0,66.67
+Meprobamate,Drinking Water,USA,Fraction of positive detections,1,0.777777777777778,0.777777777777778,0.777777777777778
+Mestranol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Mestranol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Mestranol,Surface Water - River/Stream,China,Fraction of positive detections,2,0.0,6.25,12.5
+Mestranol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Mestranol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Metformin,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.0,0.203
+Methacycline hydrochloride,Manure - dung,China,Fraction of positive detections,3,27.8,28.6,44.3
+Methadone,WWTP effluent (treated),Germany,Fraction of positive detections,1,1.0,1.0,1.0
+Methadone,WWTP effluent (treated),Mexico,Max,1,1.2,1.2,1.2
+Methadone,WWTP effluent (treated),Mexico,Mean,1,0.1,0.1,0.1
+Methadone,WWTP inflow (untreated),Mexico,Max,2,0.1,0.9500000000000001,1.8
+Methamphetamine,Drinking Water,United Kingdom,Max,1,0.0022,0.0022,0.0022
+Methamphetamine,Raw Water - Drinking Water Treatment Plant,United Kingdom,Max,1,0.0018,0.0018,0.0018
+Meticillin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Meticillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Metoclopramide,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,94.4444444444444
+Metoprolol,Drinking Water,China,Fraction of positive detections,23,0.0,0.0,20.0
+Metoprolol,Groundwater,Germany,Fraction of positive detections,2,0.0196078431372549,0.14138286893704843,0.263157894736842
+Metoprolol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0357142857142857,0.0357142857142857,0.0357142857142857
+Metoprolol,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.975308641975309,0.975308641975309,0.975308641975309
+Metoprolol,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,22.2222222222222
+Metoprolol,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.540697674418605,0.89892051030422,1.0
+Metoprolol,WWTP effluent (treated),France,Fraction of positive detections,1,8.0,8.0,8.0
+Metoprolol,WWTP effluent (treated),Germany,Fraction of positive detections,2,0.931506849315068,0.965753424657534,1.0
+Metoprolol,WWTP effluent (treated),United Arab Emirates,Mean,1,0.062,0.062,0.062
+Metoprolol,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Metoprolol,WWTP inflow (untreated),United Arab Emirates,Mean,1,0.092,0.092,0.092
+Metronidazole,Drinking Water,China,Fraction of positive detections,23,0.0,40.0,100.0
+Metronidazole,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Metronidazole,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Mezlocillin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0476190476190477,0.0476190476190477,0.0476190476190477
+Mezlocillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.176470588235294,0.176470588235294,0.176470588235294
+Monensin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Monensin,Surface Water - River/Stream,Argentina,Max,2,0.114,0.1455,0.177
+Monensin,Surface Water - River/Stream,Argentina,Median,2,0.0016,0.0119,0.0222
+Monensin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Morphine,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.888888888888889,0.888888888888889,0.888888888888889
+Morphine,WWTP effluent (treated),Mexico,Max,1,12.0,12.0,12.0
+Morphine,WWTP effluent (treated),Mexico,Mean,1,3.2,3.2,3.2
+Morphine,WWTP inflow (untreated),Mexico,Max,1,14.1,14.1,14.1
+Morphine,WWTP inflow (untreated),Mexico,Mean,1,3.5,3.5,3.5
+Nadolol,Groundwater,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Nadolol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.000980392156862745,0.00196078431372549
+Nadolol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0740740740740741,0.0740740740740741,0.0740740740740741
+Nafcillin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Nafcillin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Nafcillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0298507462686567,0.0298507462686567,0.0298507462686567
+Nalidixic acid,Surface Water - River/Stream,Japan,Fraction of positive detections,3,21.4285714285714,40.0,66.6666666666667
+Nalidixic acid,sewage sludge,China,unknown,1,0.0,0.0,0.0
+Naproxen,Drinking Water,USA,Fraction of positive detections,1,0.0,0.0,0.0
+Naproxen,Groundwater,Germany,Fraction of positive detections,2,0.0285714285714286,0.03809523809523815,0.0476190476190477
+Naproxen,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Naproxen,Surface Water - Lake,USA,Single Value,1,0.0011,0.0011,0.0011
+Naproxen,Surface Water - River/Stream,China,Fraction of positive detections,3,20.0,28.6,77.0
+Naproxen,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.170886075949367,0.251091703056769,0.842105263157895
+Naproxen,WWTP effluent (treated),China,Fraction of positive detections,1,75.0,75.0,75.0
+Naproxen,WWTP effluent (treated),France,Fraction of positive detections,1,12.0,12.0,12.0
+Naproxen,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.674157303370787,0.674157303370787,0.674157303370787
+Naproxen,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,25.735,37.5
+Naproxen,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Naproxen,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,20.0,50.0
+Nordiazepam,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Norfloxacin,Drinking Water,Brazil,Max,6,0.0,0.0215,0.21
+Norfloxacin,Manure - dung,China,Fraction of positive detections,3,7.1,26.2,35.2
+Norfloxacin,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.0146,0.285
+Norfloxacin,Surface Water - River/Stream,China,Fraction of positive detections,2,61.0,72.0,83.0
+Norfloxacin,Surface Water - Sea or Ocean,China,Fraction of positive detections,1,100.0,100.0,100.0
+Norfloxacin,WWTP sludge,China,Fraction of positive detections,1,100.0,100.0,100.0
+Norfloxacin,sewage sludge,China,unknown,1,0.6937,0.6937,0.6937
+Norfluoxetine,Drinking Water,USA,Fraction of positive detections,1,0.0,0.0,0.0
+Ofloxacin,Surface Water - River/Stream,China,Fraction of positive detections,2,39.0,52.5,66.0
+Ofloxacin,Surface Water - Sea or Ocean,China,Fraction of positive detections,1,3.7,3.7,3.7
+Ofloxacin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.238095238095238,0.238095238095238,0.238095238095238
+Ofloxacin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.529411764705882,0.529411764705882,0.529411764705882
+Ofloxacin,WWTP effluent (treated),United Arab Emirates,Mean,1,0.511,0.511,0.511
+Ofloxacin,WWTP inflow (untreated),United Arab Emirates,Mean,1,0.846,0.846,0.846
+Ofloxacin,WWTP sludge,China,Fraction of positive detections,1,100.0,100.0,100.0
+Ofloxacin,sewage sludge,China,unknown,1,1.3209,1.3209,1.3209
+Olanzapine,Sewage hospital (untreated),Brazil,Mean,11,0.0,0.0,0.52
+Olanzapine,Sewage hospital (untreated),Brazil,Smaller than,2,0.3,0.3,0.3
+Oleandomycin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Oleandomycin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Oxacillin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Oxacillin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Oxacillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0746268656716418,0.0746268656716418,0.0746268656716418
+Oxazepam,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.494949494949495,0.494949494949495,0.494949494949495
+Oxazepam,WWTP effluent (treated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Oxazepam,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.666666666666667,0.666666666666667,0.666666666666667
+Oxazepam,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Oxycodone,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Oxytetracycline,Manure - dung,China,Fraction of positive detections,3,27.8,35.7,41.0
+Oxytetracycline,Soil,China,Fraction of positive detections,4,0.0,61.0,98.0
+Oxytetracycline,Surface Water - River/Stream,China,Fraction of positive detections,1,100.0,100.0,100.0
+Oxytetracycline,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Oxytetracycline,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0196078431372549,0.0196078431372549,0.0196078431372549
+Oxytetracycline,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,0.0,12.5
+Oxytetracycline,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,0.0,3.33
+Paracetamol,Surface Water - River/Stream,Japan,Fraction of positive detections,3,5.55555555555556,50.0,65.0
+Paracetamol,WWTP effluent (treated),France,Fraction of positive detections,1,11.0,11.0,11.0
+Paracetamol,WWTP effluent (treated),Mexico,Max,1,1.0,1.0,1.0
+Paracetamol,WWTP effluent (treated),Mexico,Mean,1,0.2,0.2,0.2
+Paracetamol,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,5,0.0,0.75,12.5
+Paracetamol,WWTP effluent (treated),United Arab Emirates,Mean,1,5.235,5.235,5.235
+Paracetamol,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Paracetamol,WWTP inflow (untreated),Mexico,Max,1,4.3,4.3,4.3
+Paracetamol,WWTP inflow (untreated),Mexico,Mean,1,0.6,0.6,0.6
+Paracetamol,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,75.0,94.17,100.0
+Paracetamol,WWTP inflow (untreated),United Arab Emirates,Mean,1,145.25,145.25,145.25
+Pentoxifylline,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Pentoxifylline,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Phenazone,Drinking Water,China,Fraction of positive detections,4,0.0,7.14,14.28
+Phenazone,Groundwater,Germany,Fraction of positive detections,2,0.0125,0.160096153846154,0.307692307692308
+Phenazone,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.0,0.033
+Phenazone,Riverbank filtration,Germany,Fraction of positive detections,1,0.375,0.375,0.375
+Phenazone,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.129064039408867,0.157894736842105,0.275675675675676
+Phenazone,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.603896103896104,0.603896103896104,0.603896103896104
+Phenoxymethylpenicillin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Phenoxymethylpenicillin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0142857142857143,0.0285714285714286
+Phenoxymethylpenicillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0196078431372549,0.0196078431372549,0.0196078431372549
+Phenylbutazone,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.0,0.0,0.275
+Phenytoin,Drinking Water,USA,Fraction of positive detections,1,0.555555555555556,0.555555555555556,0.555555555555556
+Phenytoin,Surface Water - River/Stream,Japan,Fraction of positive detections,3,14.2857142857143,15.0,44.4444444444444
+Pindolol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Pindolol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Piperacillin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Piperacillin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.117647058823529,0.117647058823529,0.117647058823529
+Pirenzepine,Surface Water - River/Stream,Japan,Fraction of positive detections,3,35.7142857142857,45.0,83.3333333333333
+Piroxicam,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Piroxicam,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Piroxicam,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Prednisone,Drinking Water,Brazil,Max,6,0.02,1.0979999999999999,6.323
+Prednisone,Raw Water - Drinking Water Treatment Plant,Brazil,Max,7,0.855,2.329,2632.0
+Primidone,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,27.7777777777778
+Primidone,WWTP effluent (treated),Germany,Fraction of positive detections,1,1.0,1.0,1.0
+Propranolol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.01515151515151515,0.0303030303030303
+Propranolol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Propranolol,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,33.3333333333333
+Propranolol,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.0255152109911678,0.0909090909090909,0.5625
+Propranolol,WWTP effluent (treated),Germany,Fraction of positive detections,2,0.662162162162162,0.8310810810810809,1.0
+Propyphenazone,Groundwater,Germany,Fraction of positive detections,2,0.0,0.2666666666666665,0.533333333333333
+Propyphenazone,Riverbank filtration,Germany,Fraction of positive detections,1,0.321428571428571,0.321428571428571,0.321428571428571
+Propyphenazone,Surface Water - River/Stream,Japan,Fraction of positive detections,3,14.2857142857143,27.7777777777778,30.0
+Propyphenazone,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.0193939393939394,0.269662921348315,0.8125
+Propyphenazone,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.666666666666667,0.666666666666667,0.666666666666667
+Risperidone,Drinking Water,USA,Fraction of positive detections,1,0.0,0.0,0.0
+Risperidone,Sewage hospital (untreated),Brazil,Mean,12,0.0,0.0,0.95
+Risperidone,Sewage hospital (untreated),Brazil,Smaller than,2,0.9,0.9,0.9
+Risperidone,WWTP effluent (treated),United Arab Emirates,Mean,1,0.013,0.013,0.013
+Risperidone,WWTP inflow (untreated),United Arab Emirates,Mean,1,0.245,0.245,0.245
+Ronidazole,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Ronidazole,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Roxithromycin,Drinking Water,China,Fraction of positive detections,23,0.0,0.0,80.0
+Roxithromycin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.107142857142857,0.214285714285714
+Roxithromycin,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Roxithromycin,Surface Water - River/Stream,China,Fraction of positive detections,5,83.0,100.0,100.0
+Roxithromycin,Surface Water - Sea or Ocean,China,Fraction of positive detections,2,7.4,19.4,31.4
+Roxithromycin,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.215189873417722,0.338235294117647,0.8125
+Roxithromycin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.798507462686567,0.798507462686567,0.798507462686567
+Roxithromycin,WWTP sludge,China,Fraction of positive detections,1,100.0,100.0,100.0
+Salbutamol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Salbutamol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Salbutamol,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.01142857142857145,0.0228571428571429
+Salbutamol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.116883116883117,0.116883116883117,0.116883116883117
+Salicylic acid,Drinking Water,China,Fraction of positive detections,23,0.0,20.0,100.0
+Salicylic acid,Surface Water - River/Stream,China,Fraction of positive detections,3,100.0,100.0,100.0
+Salicylic acid,WWTP effluent (treated),China,Fraction of positive detections,1,100.0,100.0,100.0
+Salicylic acid,WWTP effluent (treated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Salicylic acid,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,1,0.8125,0.8125,0.8125
+Salicylic acid,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Salinomycin,Surface Water - River/Stream,Argentina,Max,1,0.05,0.05,0.05
+Salinomycin,Surface Water - River/Stream,Argentina,Median,1,0.0011,0.0011,0.0011
+Sarafloxacin,Surface Water - River/Stream,China,Fraction of positive detections,1,50.0,50.0,50.0
+Sarafloxacin,WWTP sludge,China,Fraction of positive detections,1,3.0,3.0,3.0
+Secobarbital,WWTP effluent (treated),Mexico,Max,1,5.1,5.1,5.1
+Secobarbital,WWTP effluent (treated),Mexico,Mean,1,1.0,1.0,1.0
+Secobarbital,WWTP inflow (untreated),Mexico,Max,1,7.4,7.4,7.4
+Secobarbital,WWTP inflow (untreated),Mexico,Mean,1,2.1,2.1,2.1
+Simvastatin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Simvastatin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Simvastatin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Sotalol,Groundwater,Germany,Fraction of positive detections,2,0.0,0.131578947368421,0.263157894736842
+Sotalol,Riverbank filtration,Germany,Fraction of positive detections,1,0.0625,0.0625,0.0625
+Sotalol,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.987654320987654,0.987654320987654,0.987654320987654
+Sotalol,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.803738317757009,0.819430814524043,1.0
+Sotalol,WWTP effluent (treated),Germany,Fraction of positive detections,2,0.866666666666667,0.9333333333333336,1.0
+Spiramycin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Spiramycin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Spiramycin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0597014925373134,0.0597014925373134,0.0597014925373134
+Spiramycin,WWTP sludge,China,Fraction of positive detections,1,83.0,83.0,83.0
+Sulfachloropyridazine,Manure - dung,China,Fraction of positive detections,3,3.6,4.9,5.6
+Sulfadiazine,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Sulfadiazine,Manure - dung,China,Average,1,0.0,0.0,0.0
+Sulfadiazine,Manure - dung,China,Fraction of positive detections,3,0.0,4.9,20.4
+Sulfadiazine,Surface Water - River/Stream,China,Fraction of positive detections,6,20.0,62.0,100.0
+Sulfadiazine,Surface Water - Sea or Ocean,China,Fraction of positive detections,2,3.7,23.3,42.9
+Sulfadiazine,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.0,0.0659133709981168,0.166666666666667
+Sulfadiazine,WWTP effluent (treated),United Arab Emirates,Mean,1,0.433,0.433,0.433
+Sulfadiazine,WWTP inflow (untreated),United Arab Emirates,Mean,1,0.72,0.72,0.72
+Sulfadiazine,WWTP sludge,China,Fraction of positive detections,1,100.0,100.0,100.0
+Sulfadimethoxine,Surface Water - River/Stream,China,Fraction of positive detections,1,50.0,50.0,50.0
+Sulfadimethoxine,Surface Water - River/Stream,Japan,Fraction of positive detections,3,22.2222222222222,25.0,28.5714285714286
+Sulfadimethoxine,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.031496062992126,0.031496062992126,0.031496062992126
+Sulfadimidine,Groundwater,Germany,Fraction of positive detections,2,0.0,0.01136363636363635,0.0227272727272727
+Sulfadimidine,Manure - dung,China,Fraction of positive detections,3,5.6,14.3,16.4
+Sulfadimidine,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Sulfadimidine,Surface Water - River/Stream,China,Fraction of positive detections,4,0.0,40.0,100.0
+Sulfadimidine,Surface Water - Sea or Ocean,China,Fraction of positive detections,1,42.9,42.9,42.9
+Sulfadimidine,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.0,0.0243217960710945,0.132352941176471
+Sulfadimidine,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.194029850746269,0.194029850746269,0.194029850746269
+Sulfadoxine,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0154559505409583,0.0154559505409583,0.0154559505409583
+Sulfaguanidine,Manure - dung,China,Fraction of positive detections,3,10.7,18.5,23.0
+Sulfamerazine,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Sulfamerazine,Manure - dung,China,Average,1,0.0,0.0,0.0
+Sulfamerazine,Manure - dung,China,Fraction of positive detections,3,1.6,3.6,7.4
+Sulfamerazine,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.0,0.0,0.00154559505409583
+Sulfamerazine,WWTP inflow (untreated),Taiwan,Single Value,1,0.0,0.0,0.0
+Sulfamerazine,WWTP sludge,China,Fraction of positive detections,1,3.0,3.0,3.0
+Sulfamethazine,Drinking Water,China,Fraction of positive detections,23,0.0,0.0,40.0
+Sulfamethazine,Surface Water - River/Stream,China,Fraction of positive detections,2,92.0,94.0,96.0
+Sulfamethazine,Surface Water - Sea or Ocean,China,Fraction of positive detections,1,15.0,15.0,15.0
+Sulfamethazine,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,24.63,50.0
+Sulfamethazine,WWTP effluent (treated),United Arab Emirates,Mean,1,0.011,0.011,0.011
+Sulfamethazine,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,23.75,75.0
+Sulfamethazine,WWTP inflow (untreated),United Arab Emirates,Mean,1,0.024,0.024,0.024
+Sulfamethazine,WWTP sludge,China,Fraction of positive detections,1,23.0,23.0,23.0
+Sulfamethizole,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Sulfamethoxazole,Drinking Water,China,Fraction of positive detections,27,0.0,0.0,80.0
+Sulfamethoxazole,Drinking Water,USA,Fraction of positive detections,1,0.222222222222222,0.222222222222222,0.222222222222222
+Sulfamethoxazole,Groundwater,Germany,Fraction of positive detections,2,0.0465116279069767,0.30897009966777383,0.571428571428571
+Sulfamethoxazole,Manure - dung,China,Fraction of positive detections,3,0.0,4.9,7.4
+Sulfamethoxazole,Riverbank filtration,Germany,Fraction of positive detections,1,0.583333333333333,0.583333333333333,0.583333333333333
+Sulfamethoxazole,Surface Water - River/Stream,China,Fraction of positive detections,6,40.0,83.5,100.0
+Sulfamethoxazole,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.987654320987654,0.987654320987654,0.987654320987654
+Sulfamethoxazole,Surface Water - River/Stream,Japan,Fraction of positive detections,3,10.0,21.4285714285714,55.5555555555556
+Sulfamethoxazole,Surface Water - River/Stream,Spain,Average,3,0.0,0.0,0.0
+Sulfamethoxazole,Surface Water - River/Stream,Spain,Smaller than,1,0.0014,0.0014,0.0014
+Sulfamethoxazole,Surface Water - Sea or Ocean,China,Fraction of positive detections,2,97.1,98.55,100.0
+Sulfamethoxazole,Surface Water - unspecific,Germany,Fraction of positive detections,4,0.602941176470588,0.6954877178415495,0.8125
+Sulfamethoxazole,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.746268656716418,0.746268656716418,0.746268656716418
+Sulfamethoxazole,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,25.0,31.25,76.47
+Sulfamethoxazole,WWTP effluent (treated),United Arab Emirates,Mean,1,0.075,0.075,0.075
+Sulfamethoxazole,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,8.33,37.5,70.0
+Sulfamethoxazole,WWTP inflow (untreated),United Arab Emirates,Mean,1,0.161,0.161,0.161
+Sulfamethoxazole,WWTP sludge,China,Fraction of positive detections,1,77.0,77.0,77.0
+Sulfametoxydiazine,Surface Water - River/Stream,China,Fraction of positive detections,1,63.0,63.0,63.0
+Sulfamonomethoxine,Manure - dung,China,Fraction of positive detections,3,3.6,16.7,47.5
+Sulfamonomethoxine,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,14.2857142857143,35.0
+Sulfanilamide,Manure - dung,China,Fraction of positive detections,3,0.0,1.6,7.4
+Sulfapyridine,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.580246913580247,0.580246913580247,0.580246913580247
+Sulfapyridine,WWTP effluent (treated),United Arab Emirates,Mean,1,0.0999,0.0999,0.0999
+Sulfapyridine,WWTP inflow (untreated),United Arab Emirates,Mean,1,0.252,0.252,0.252
+Sulfapyridine,WWTP sludge,China,Fraction of positive detections,1,100.0,100.0,100.0
+Sulfathiazole,Drinking Water,China,Fraction of positive detections,23,0.0,0.0,20.0
+Sulfathiazole,Surface Water - River/Stream,China,Fraction of positive detections,4,33.0,100.0,100.0
+Sulfathiazole,Surface Water - Sea or Ocean,China,Fraction of positive detections,1,11.4,11.4,11.4
+Sulfathiazole,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.00156494522691706,0.00156494522691706,0.00156494522691706
+Sulfathiazole,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,32.355000000000004,62.5
+Sulfathiazole,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,23.75,100.0
+Sulfisoxazole,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0175438596491228,0.0175438596491228,0.0175438596491228
+Sulpiride,Drinking Water,China,Fraction of positive detections,3,25.0,57.14,75.0
+Sulpiride,Surface Water - River/Stream,Japan,Fraction of positive detections,3,100.0,100.0,100.0
+Temazepam,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0686868686868687,0.0686868686868687,0.0686868686868687
+Terbutaline,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Terbutaline,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Terbutaline,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0116279069767442,0.0613695090439276,0.111111111111111
+Terbutaline,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0769230769230769,0.0769230769230769,0.0769230769230769
+Tetracycline,Soil,China,Fraction of positive detections,4,0.0,58.5,98.0
+Tetracycline,Surface Water - River/Stream,China,Fraction of positive detections,1,100.0,100.0,100.0
+Tetracycline,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Tetracycline,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Tetracycline,WWTP effluent (treated),Mexico,Max,1,119.4,119.4,119.4
+Tetracycline,WWTP effluent (treated),Mexico,Mean,1,64.9,64.9,64.9
+Tetracycline,WWTP inflow (untreated),Mexico,Max,1,160.2,160.2,160.2
+Tetracycline,WWTP inflow (untreated),Mexico,Mean,1,72.7,72.7,72.7
+Theophylline,Surface Water - River/Stream,Japan,Fraction of positive detections,3,25.0,42.8571428571429,94.4444444444444
+Thiamphenicol,Drinking Water,China,Fraction of positive detections,23,0.0,0.0,80.0
+Tiamulin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.117647058823529,0.117647058823529,0.117647058823529
+Tramadol,WWTP effluent (treated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Tramadol,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.666666666666667,0.666666666666667,0.666666666666667
+Tramadol,WWTP inflow (untreated),France,Fraction of positive detections,1,13.0,13.0,13.0
+Triclosan,Drinking Water,USA,Fraction of positive detections,1,0.0555555555555556,0.0555555555555556,0.0555555555555556
+Triclosan,Sewage urban (untreated),Lesotho,Single Value,1,0.0,0.0,0.0
+Triclosan,Surface Water - River/Stream,China,Fraction of positive detections,2,100.0,100.0,100.0
+Trimethoprim,Drinking Water,China,Fraction of positive detections,27,0.0,0.0,40.0
+Trimethoprim,Drinking Water,USA,Fraction of positive detections,1,0.0,0.0,0.0
+Trimethoprim,Groundwater,Germany,Fraction of positive detections,2,0.0,0.107142857142857,0.214285714285714
+Trimethoprim,Riverbank filtration,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Trimethoprim,Surface Water - River/Stream,China,Fraction of positive detections,5,0.0,80.0,100.0
+Trimethoprim,Surface Water - River/Stream,Germany,Fraction of positive detections,1,0.0246913580246914,0.0246913580246914,0.0246913580246914
+Trimethoprim,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,0.0,44.4444444444444
+Trimethoprim,Surface Water - Sea or Ocean,China,Fraction of positive detections,2,88.6,94.3,100.0
+Trimethoprim,Surface Water - unspecific,Germany,Fraction of positive detections,3,0.27156862745098,0.463235294117647,0.6875
+Trimethoprim,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.649253731343284,0.649253731343284,0.649253731343284
+Trimethoprim,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,25.0,43.75,73.53
+Trimethoprim,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,39.585,53.33
+Tylosin,Drinking Water,China,Fraction of positive detections,23,0.0,0.0,80.0
+Tylosin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Tylosin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Tylosin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0204081632653061,0.0204081632653061,0.0204081632653061
+Tylosin,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,0.0,0.0
+Tylosin,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,1.665,12.5
+Tylosin tartrate,WWTP sludge,China,Fraction of positive detections,1,6.0,6.0,6.0
+Vancomycin,Surface Water - unspecific,Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Vancomycin,WWTP effluent (treated),Germany,Fraction of positive detections,1,0.0,0.0,0.0
+Vancomycin,WWTP effluent (treated),Republic of Korea,Fraction of positive detections,4,0.0,6.25,25.0
+Vancomycin,WWTP inflow (untreated),Republic of Korea,Fraction of positive detections,4,0.0,0.0,8.33
+Verapamil,Surface Water - River/Stream,Japan,Fraction of positive detections,3,0.0,5.0,83.3333333333333
+Virginiamycin,Groundwater,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+Virginiamycin,Surface Water - unspecific,Germany,Fraction of positive detections,2,0.0,0.0,0.0
+o-Hydroxyatorvastatin,Drinking Water,USA,Fraction of positive detections,1,0.0,0.0,0.0
+p-Hydroxyatorvastatin,Drinking Water,USA,Fraction of positive detections,1,0.0,0.0,0.0

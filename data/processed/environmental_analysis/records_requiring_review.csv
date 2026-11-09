@@ -1,0 +1,682 @@
+ID,Name of Analyte,Matrix,Sampling Country,Statistics,Detection,MEC original,Unit original,MEC standardized,Unit standard,LoD Limit of Detection,Unit LoD standardized,Literature Citation,Measurement Status,Censoring Type,Review Flag
+270232,"10,11-Dihydro-10,11-Epoxycarbamazepine",Soil,Spain,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Malvar et al., 2020",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+270233,"10,11-Dihydro-10,11-Epoxycarbamazepine",Soil,Spain,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Malvar et al., 2020",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+270234,"10,11-Dihydro-10,11-Epoxycarbamazepine",Soil,Spain,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Malvar et al., 2020",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+270223,"10,11-dihydro-10-hydroxycarbamazepine",Soil,Spain,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Malvar et al., 2020",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+270224,"10,11-dihydro-10-hydroxycarbamazepine",Soil,Spain,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Malvar et al., 2020",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+270225,"10,11-dihydro-10-hydroxycarbamazepine",Soil,Spain,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Malvar et al., 2020",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+270226,"10,11-dihydro-10-hydroxycarbamazepine",Compost,Spain,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Malvar et al., 2020",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+203308,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203320,17-alpha-Estradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203321,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203334,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203335,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203348,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203349,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203362,17-alpha-Estradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203623,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203641,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203649,17-alpha-Estradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203654,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203656,17-alpha-Estradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203669,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203670,17-alpha-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+186721,17-alpha-Ethinylestradiol,Sewage urban (untreated),France,Smaller than,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,[-],"Wiest et al., 2018",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+203309,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203319,17-alpha-Ethinylestradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203322,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203333,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203336,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203347,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203350,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203361,17-alpha-Ethinylestradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203625,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203640,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203648,17-alpha-Ethinylestradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203653,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203657,17-alpha-Ethinylestradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203668,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203671,17-alpha-Ethinylestradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+106149,17-beta-Estradiol,WWTP inflow (untreated),Brazil,Single Value,positive detection,0.0,ng/L,0.0,µg/L,64.0,µg/L,Pessoa et al. (2012),exact,,Positive detection with zero MEC - verify source
+182756,17-beta-Estradiol,Surface Water - unspecific,South Africa,Mean,positive detection,0.0,µg/L,0.0,µg/L,0.8255,µg/L,"Olatunji et al., 2017",exact,,Positive detection with zero MEC - verify source
+182758,17-beta-Estradiol,Surface Water - unspecific,South Africa,Mean,positive detection,0.0,µg/L,0.0,µg/L,0.8255,µg/L,"Olatunji et al., 2017",exact,,Positive detection with zero MEC - verify source
+182759,17-beta-Estradiol,WWTP inflow (untreated),South Africa,Mean,positive detection,0.0,µg/L,0.0,µg/L,0.8255,µg/L,"Olatunji et al., 2017",exact,,Positive detection with zero MEC - verify source
+182760,17-beta-Estradiol,WWTP effluent (treated),South Africa,Mean,positive detection,0.0,µg/L,0.0,µg/L,0.8255,µg/L,"Olatunji et al., 2017",exact,,Positive detection with zero MEC - verify source
+203310,17-beta-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203317,17-beta-Estradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203324,17-beta-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203331,17-beta-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203338,17-beta-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203345,17-beta-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203352,17-beta-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203359,17-beta-Estradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203626,17-beta-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203638,17-beta-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203646,17-beta-Estradiol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203652,17-beta-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203666,17-beta-Estradiol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+226925,17-beta-Estradiol,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+195659,6-beta-Hydroxytriamcinolone acetonide,Surface Water - River/Stream,Germany,Smaller than,positive detection,0.03,ng/L,0.0,µg/L,0.03,µg/L,"Weizel et al., 2018",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+195629,7-alpha-Thiomethylspironolactone,Surface Water - River/Stream,Germany,Smaller than,positive detection,0.03,ng/L,0.0,µg/L,0.01,µg/L,"Weizel et al., 2018",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+101501,Acetoaminoantipyrine,Surface Water - unspecific,Czech Republic,Single value,positive detection,0.0,µg/l,0.0,µg/L,0.02,µg/L,Schmidt & Brockmeyer (2002),exact,,Positive detection with zero MEC - verify source
+105094,Acetylsalicylic acid,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,11.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+219574,Acetylsalicylic acid,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219576,Acetylsalicylic acid,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219578,Acetylsalicylic acid,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219579,Acetylsalicylic acid,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219582,Acetylsalicylic acid,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219584,Acetylsalicylic acid,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219585,Acetylsalicylic acid,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+252988,Acetylsalicylic acid,WWTP effluent (treated),Republic of Korea,Mean,positive detection,0.0,µg/L,0.0,µg/L,0.0134,µg/L,Na et al. 2019,exact,,Positive detection with zero MEC - verify source
+252989,Acetylsalicylic acid,WWTP effluent (treated),Republic of Korea,Mean,positive detection,0.0,µg/L,0.0,µg/L,0.0134,µg/L,Na et al. 2019,exact,,Positive detection with zero MEC - verify source
+233480,Amcinonide,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+186590,Amoxicillin,WWTP effluent (treated),Ghana,Max,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Azanu et al. 2017,exact,,Positive detection with zero MEC - verify source
+234419,Amoxicillin,Tap Water,Malaysia,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+234434,Amoxicillin,Tap Water,Malaysia,Max,positive detection,0.0172,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+234435,Amoxicillin,Tap Water,Malaysia,Mean,positive detection,0.001,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+156532,Amphetamine,Surface Water - River/Stream,United Kingdom,Average,positive detection,0.0,ng/L,0.0,µg/L,0.68,µg/L,Petrie et al. 2016,exact,,Positive detection with zero MEC - verify source
+178727,Ampicillin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178728,Ampicillin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178729,Ampicillin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+185907,Ampicillin,WWTP effluent (treated),Republic of Korea,Average,positive detection,0.0,ng/L,0.0,µg/L,0.9,µg/L,Kim et al. 2018,exact,,Positive detection with zero MEC - verify source
+129733,Androstenedione,WWTP inflow (untreated),Finland,Average,positive detection,0.0,ng/L,0.0,µg/L,0.06,µg/L,Sirén & El Fellah 2016,exact,,Positive detection with zero MEC - verify source
+129734,Androstenedione,WWTP effluent (treated),Finland,Average,positive detection,0.0,ng/L,0.0,µg/L,0.06,µg/L,Sirén & El Fellah 2016,exact,,Positive detection with zero MEC - verify source
+222819,Anhydroerythromycin,Surface Water - unspecific,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.003,µg/L,"Zhu et al., 2020",exact,,Positive detection with zero MEC - verify source
+216052,Atenolol,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.0016,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216053,Atenolol,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.0016,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216054,Atenolol,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.0016,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216055,Atenolol,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.0016,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+226911,Atenolol,Surface Water - Lake,Uruguay,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Griffero et al. 2019,exact,,Positive detection with zero MEC - verify source
+234455,Atorvastatin,WWTP effluent (treated),Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234456,Atorvastatin,WWTP effluent (treated),Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234457,Atorvastatin,WWTP effluent (treated),Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234485,Atorvastatin,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234486,Atorvastatin,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234487,Atorvastatin,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234515,Atorvastatin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234516,Atorvastatin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234517,Atorvastatin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+223907,Azithromycin,WWTP inflow (untreated),Iran (Islamic Republic of),Max,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Mirzaei et al. 2019,exact,,Positive detection with zero MEC - verify source
+178730,Benzylpenicillin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178731,Benzylpenicillin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178732,Benzylpenicillin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+203725,Betamethasone,WWTP effluent (treated),Portugal,Min,positive detection,0.0,ng/L,0.0,µg/L,2.4,µg/L,Foueaux et al. 2019,exact,,Positive detection with zero MEC - verify source
+203726,Betamethasone,WWTP effluent (treated),Portugal,Max,positive detection,0.0,ng/L,0.0,µg/L,2.4,µg/L,Foueaux et al. 2019,exact,,Positive detection with zero MEC - verify source
+233482,Betamethasone,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+105672,Bezafibrate,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+105753,Bezafibrate,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+229308,Bezafibrate,Surface Water - Lake,China,Single Value,positive detection,0.02,ng/L,0.0,µg/L,0.006,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229311,Bezafibrate,Surface Water - Lake,China,Single Value,positive detection,0.03,ng/L,0.0,µg/L,0.006,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229313,Bezafibrate,Surface Water - Lake,China,Single Value,positive detection,0.01,ng/L,0.0,µg/L,0.006,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229322,Bezafibrate,Surface Water - Lake,China,Single Value,positive detection,0.01,ng/L,0.0,µg/L,0.006,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229324,Bezafibrate,Surface Water - Lake,China,Single Value,positive detection,0.01,ng/L,0.0,µg/L,0.006,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229325,Bezafibrate,Surface Water - Lake,China,Single Value,positive detection,0.01,ng/L,0.0,µg/L,0.006,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229331,Bezafibrate,Surface Water - Lake,China,Single Value,positive detection,0.02,ng/L,0.0,µg/L,0.006,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229337,Bezafibrate,Surface Water - Lake,China,Single Value,positive detection,0.02,ng/L,0.0,µg/L,0.006,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+186464,Bisoprolol,Drinking Water,China,Max,positive detection,0.03,ng/L,0.0,µg/L,1.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+186465,Bisoprolol,Drinking Water,China,Average,positive detection,14.1,pg/L,0.0,µg/L,1.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+186466,Bisoprolol,Drinking Water,China,Mean,positive detection,14.6,pg/L,0.0,µg/L,1.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+186459,Buflomedil,Drinking Water,China,Average,positive detection,30.9,pg/L,0.0,µg/L,8.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+179714,Butylparaben,Surface Water - Lake,Colombia,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+180006,Butylparaben,Surface Water - River/Stream,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+182835,Butylparaben,Sediment - River/Stream,China,Median,positive detection,0.01,ng/L,0.0,µg/L,-9999.0,[-],Huang et al. 2018,exact,,Positive detection with zero MEC - verify source
+186853,Butylparaben,WWTP effluent (treated),China,Single Value,positive detection,0.01,ng/L,0.0,µg/L,-9999.0,[-],Ma et al. 2018,exact,,Positive detection with zero MEC - verify source
+268990,Capecitabine,Surface Water - River/Stream,United Kingdom,Smaller than,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+268991,Capecitabine,WWTP effluent (treated),United Kingdom,Smaller than,positive detection,0.03,ng/L,0.0,µg/L,0.01,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+268993,Capecitabine,Suspended particulate matter - WWTP inflow,United Kingdom,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.002,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+96953,Carbamazepine,Surface Water - River/Stream,Slovakia,Single value,positive detection,0.0,µg/l,0.0,µg/L,0.02,µg/L,NORMAN (2012),exact,,Positive detection with zero MEC - verify source
+105062,Carbamazepine,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,1.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+105669,Carbamazepine,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+178762,Carbamazepine,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+182167,Carbamazepine,Surface Water - River/Stream,Brazil,Average,positive detection,0.0,µg/L,0.0,µg/L,3.8,µg/L,Böger et al. 2018,exact,,Positive detection with zero MEC - verify source
+182168,Carbamazepine,Surface Water - River/Stream,Brazil,Average,positive detection,0.0,µg/L,0.0,µg/L,3.8,µg/L,Böger et al. 2018,exact,,Positive detection with zero MEC - verify source
+182172,Carbamazepine,Surface Water - River/Stream,Brazil,Average,positive detection,0.0,µg/L,0.0,µg/L,3.8,µg/L,Böger et al. 2018,exact,,Positive detection with zero MEC - verify source
+182173,Carbamazepine,Surface Water - River/Stream,Brazil,Average,positive detection,0.0,µg/L,0.0,µg/L,3.8,µg/L,Böger et al. 2018,exact,,Positive detection with zero MEC - verify source
+182174,Carbamazepine,Surface Water - River/Stream,Brazil,Average,positive detection,0.0,µg/L,0.0,µg/L,3.8,µg/L,Böger et al. 2018,exact,,Positive detection with zero MEC - verify source
+182175,Carbamazepine,Surface Water - River/Stream,Brazil,Average,positive detection,0.0,µg/L,0.0,µg/L,3.8,µg/L,Böger et al. 2018,exact,,Positive detection with zero MEC - verify source
+192187,Carbamazepine,Surface Water - unspecific,Germany,Min,positive detection,0.0,ng/L,0.0,µg/L,10.0,µg/L,Berger et al. 2017,exact,,Positive detection with zero MEC - verify source
+194811,Carbamazepine,Surface Water - Aquaculture,Finland,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Ahkola et al. 2017,exact,,Positive detection with zero MEC - verify source
+203765,Carbamazepine,Sediment - River/Stream,South Africa,Smaller than,positive detection,0.049,µg/kg,0.0,mg/kg dry-weight,0.017,mg/kg dry-weight,"Hlengwa and Mahlambi, 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+203786,Carbamazepine,Soil,South Africa,Smaller than,positive detection,0.049,µg/kg,0.0,mg/kg dry-weight,0.017,mg/kg dry-weight,"Hlengwa and Mahlambi, 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+203789,Carbamazepine,Soil,South Africa,Smaller than,positive detection,0.049,µg/kg,0.0,mg/kg dry-weight,0.017,mg/kg dry-weight,"Hlengwa and Mahlambi, 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+215907,Carbamazepine,Surface Water - Estuary,Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.003,µg/L,"Roveri et al., 2020 a",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216012,Carbamazepine,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.003,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216013,Carbamazepine,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.003,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216015,Carbamazepine,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.003,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216016,Carbamazepine,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.003,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216017,Carbamazepine,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.003,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216018,Carbamazepine,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.003,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216019,Carbamazepine,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.003,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+229052,Carbamazepine,Surface Water - Lake,China,Single Value,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229054,Carbamazepine,Surface Water - Lake,China,Single Value,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229065,Carbamazepine,Surface Water - Lake,China,Single Value,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229066,Carbamazepine,Surface Water - Lake,China,Single Value,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229071,Carbamazepine,Surface Water - Lake,China,Single Value,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229079,Carbamazepine,Surface Water - Lake,China,Single Value,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+229081,Carbamazepine,Surface Water - Lake,China,Single Value,positive detection,0.03,ng/L,0.0,µg/L,0.01,µg/L,"Wang et al., 2019 c",exact,,Positive detection with zero MEC - verify source
+250923,Carbamazepine,Surface Water - River/Stream,Bangladesch,Smaller than,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Hossain et al., 2018",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+194965,"Carbamazepine-10,11-epoxide",Surface Water - Lake,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Bokony et al. 2018,exact,,Positive detection with zero MEC - verify source
+194986,"Carbamazepine-10,11-epoxide",Surface Water - Lake,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Bokony et al. 2018,exact,,Positive detection with zero MEC - verify source
+194994,"Carbamazepine-10,11-epoxide",Surface Water - Lake,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Bokony et al. 2018,exact,,Positive detection with zero MEC - verify source
+270214,Carbamazepine-3OH,Soil,Spain,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Malvar et al., 2020",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+270215,Carbamazepine-3OH,Soil,Spain,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Malvar et al., 2020",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+270216,Carbamazepine-3OH,Soil,Spain,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Malvar et al., 2020",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+178745,Cefalexin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+234420,Chloramphenicol,Tap Water,Malaysia,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+234437,Chloramphenicol,Tap Water,Malaysia,Mean,positive detection,0.0419,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+186647,Chlortetracycline,Surface Water - River/Stream,Ghana,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Azanu et al. 2017,exact,,Positive detection with zero MEC - verify source
+187683,Chlortetracycline,Sediment - Lake,China,Median,positive detection,0.04,µg/kg,0.0,mg/kg dry-weight,0.025,mg/kg dry-weight,"Xu et al., 2018 b",exact,,Positive detection with zero MEC - verify source
+105064,Cimetidine,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,6.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+105066,Ciprofloxacin,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,31.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+123621,Ciprofloxacin,Surface Water - Lake,India,Single Value,positive detection,0.0,µg/l,0.0,µg/L,0.6,µg/L,Rao et al. (2008),exact,,Positive detection with zero MEC - verify source
+123623,Ciprofloxacin,Surface Water - River/Stream,India,Single Value,positive detection,0.0,µg/l,0.0,µg/L,0.6,µg/L,Rao et al. (2008),exact,,Positive detection with zero MEC - verify source
+179020,Ciprofloxacin,Surface Water - Lake,India,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Archana et al. 2017,exact,,Positive detection with zero MEC - verify source
+179021,Ciprofloxacin,Surface Water - Lake,India,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Archana et al. 2017,exact,,Positive detection with zero MEC - verify source
+179022,Ciprofloxacin,Surface Water - Lake,India,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Archana et al. 2017,exact,,Positive detection with zero MEC - verify source
+226912,Ciprofloxacin,Surface Water - Lake,Uruguay,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Griffero et al. 2019,exact,,Positive detection with zero MEC - verify source
+234443,Ciprofloxacin,WWTP effluent (treated),Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234473,Ciprofloxacin,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234503,Ciprofloxacin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234504,Ciprofloxacin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234505,Ciprofloxacin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+271499,Ciprofloxacin,Surface Water - River/Stream,China,Mean,positive detection,0.024,ng/L,0.0,µg/L,-9999.0,[-],"Zhang et al., 2020",exact,,Positive detection with zero MEC - verify source
+271908,Citalopram,Sediment - River/Stream,Portugal,Single Value,positive detection,0.291,ng/g,0.0,mg/kg,-9999.0,[-],"Fernandes et al., 2020",exact,,Positive detection with zero MEC - verify source
+105068,Clarithromycin,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,5.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+105722,Clarithromycin,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+105749,Clarithromycin,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+105758,Clarithromycin,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+178757,Clarithromycin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+196019,Clarithromycin,Tap Water,Sweden,Single Value,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Tröger et al., 2018",exact,,Positive detection with zero MEC - verify source
+196020,Clarithromycin,Tap Water,Sweden,Single Value,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Tröger et al., 2018",exact,,Positive detection with zero MEC - verify source
+196043,Clarithromycin,Surface Water - River/Stream,Sweden,Single Value,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Tröger et al., 2018",exact,,Positive detection with zero MEC - verify source
+196080,Clarithromycin,Surface Water - Lake,Sweden,Single Value,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Tröger et al., 2018",exact,,Positive detection with zero MEC - verify source
+196101,Clarithromycin,Surface Water - Lake,Sweden,Single Value,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Tröger et al., 2018",exact,,Positive detection with zero MEC - verify source
+196146,Clarithromycin,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+196147,Clarithromycin,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+196148,Clarithromycin,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+196149,Clarithromycin,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+196150,Clarithromycin,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+234477,Clarithromycin,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234478,Clarithromycin,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234506,Clarithromycin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234507,Clarithromycin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234508,Clarithromycin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+253000,Clarithromycin,Sewage industrial (untreated),Republic of Korea,Mean,positive detection,0.0,µg/L,0.0,µg/L,0.0034,µg/L,Na et al. 2019,exact,,Positive detection with zero MEC - verify source
+105070,Clindamycin,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,3.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+233498,Clobetasol propinate,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+186474,Clopidogrel,Drinking Water,China,Average,positive detection,18.0,pg/L,0.0,µg/L,5.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+216005,Clopidogrel,Surface Water - Estuary,Brazil,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.0,µg/L,"Roveri et al., 2020 a",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216009,Clopidogrel,Surface Water - Estuary,Brazil,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.0,µg/L,"Roveri et al., 2020 a",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216010,Clopidogrel,Surface Water - unspecific,Brazil,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.0,µg/L,"Roveri et al., 2020 a",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216011,Clopidogrel,Surface Water - Estuary,Brazil,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.0,µg/L,"Roveri et al., 2020 a",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+178742,Cloxacillin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178743,Cloxacillin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+199675,Cloxacillin,Drinking Water,China,Mean,positive detection,0.04,ng/L,0.0,µg/L,0.04,µg/L,"Ben et al., 2020",exact,,Positive detection with zero MEC - verify source
+213853,Clozapine,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+213854,Clozapine,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+213855,Clozapine,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+213856,Clozapine,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+213857,Clozapine,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+213858,Clozapine,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+213859,Clozapine,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+233485,Cortisol,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+233486,Cortisone,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+274936,Dehydronifedipine,Drinking Water,China,Min,positive detection,0.03,ng/L,0.0,µg/L,0.015,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+274939,Dehydronifedipine,Tap Water,China,Min,positive detection,0.03,ng/L,0.0,µg/L,0.015,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+233487,Dexamethasone,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+234422,Dexamethasone,Tap Water,Malaysia,Min,positive detection,0.0098,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+272056,Dexamethasone,Sediment - Sea or Ocean,Malaysia,unknown,positive detection,0.042,ng/g dry-weight,0.0,mg/kg dry-weight,0.04,mg/kg dry-weight,"Ismail et al., 2020",exact,,Positive detection with zero MEC - verify source
+182190,Diazepam,Surface Water - River/Stream,Brazil,Average,positive detection,0.0,µg/L,0.0,µg/L,10.3,µg/L,Böger et al. 2018,exact,,Positive detection with zero MEC - verify source
+105072,Diclofenac,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,14.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+105671,Diclofenac,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+105725,Diclofenac,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+105752,Diclofenac,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+105761,Diclofenac,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+105779,Diclofenac,Soil,Mexico,average,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,[-],Dalkmann et al. (2012),exact,,Positive detection with zero MEC - verify source
+179638,Diclofenac,Surface Water - Lake,Colombia,Average,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+179639,Diclofenac,Surface Water - Lake,Colombia,Average,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+180128,Diclofenac,Tap Water,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+203777,Diclofenac,Sediment - River/Stream,South Africa,Smaller than,positive detection,0.032,µg/kg,0.0,mg/kg dry-weight,0.011,mg/kg dry-weight,"Hlengwa and Mahlambi, 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+226910,Diclofenac,Surface Water - Lake,Uruguay,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Griffero et al. 2019,exact,,Positive detection with zero MEC - verify source
+226942,Diclofenac,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.7,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+234399,Diclofenac,WWTP secondary effluent,Canada,unknown,positive detection,0.0,ng/L,0.0,µg/L,0.98,µg/L,Manoli et al. 2019,exact,,Positive detection with zero MEC - verify source
+234400,Diclofenac,WWTP secondary effluent,Canada,unknown,positive detection,0.0,ng/L,0.0,µg/L,0.98,µg/L,Manoli et al. 2019,exact,,Positive detection with zero MEC - verify source
+234423,Diclofenac,Tap Water,Malaysia,Min,positive detection,0.0031,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+234439,Diclofenac,Tap Water,Malaysia,Mean,positive detection,0.0495,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+234509,Diclofenac,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234510,Diclofenac,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234511,Diclofenac,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+233917,Dienogest,Surface Water - River/Stream,Switzerland,Single Value,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Zhang and Fent, 2018",exact,,Positive detection with zero MEC - verify source
+233918,Dienogest,Surface Water - River/Stream,Switzerland,Single Value,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Zhang and Fent, 2018",exact,,Positive detection with zero MEC - verify source
+233919,Dienogest,Surface Water - River/Stream,Switzerland,Single Value,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Zhang and Fent, 2018",exact,,Positive detection with zero MEC - verify source
+226961,Diethylstilbestrol,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.7,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226922,Diflunisal,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,1.7,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226941,Diflunisal,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,1.7,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226945,Diflunisal,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,1.7,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226966,Diflunisal,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,1.7,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226967,Diflunisal,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,1.7,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226990,Diflunisal,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,1.7,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+269143,Dihydromorphine,Suspended particulate matter - WWTP inflow,United Kingdom,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+274957,Diltiazem,Tap Water,China,Min,positive detection,0.01,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+276445,Diltiazem,Surface Water - River/Stream,Turkey,Smaller than,positive detection,0.03,ng/L,0.0,µg/L,0.01,µg/L,"Guzel et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+276446,Diltiazem,Surface Water - River/Stream,Turkey,Smaller than,positive detection,0.03,ng/L,0.0,µg/L,0.01,µg/L,"Guzel et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+274963,Diphenhydramine,Drinking Water,China,Min,positive detection,0.01,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+274966,Diphenhydramine,Tap Water,China,Min,positive detection,0.01,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+186471,Doxazosin,Drinking Water,China,Average,positive detection,24.7,pg/L,0.0,µg/L,1.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+178721,Doxycycline,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178722,Doxycycline,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178723,Doxycycline,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+269058,Duloxetine,Suspended particulate matter - WWTP inflow,United Kingdom,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.003,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+182196,Enalapril,WWTP inflow (untreated),Malaysia,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Al-Qaim et al. 2018,exact,,Positive detection with zero MEC - verify source
+276793,Enrofloxacin,Surface Water - River/Stream,China,Mean,positive detection,0.0003,ng/L,0.0,µg/L,-9999.0,[-],Ju et al. 2018,exact,,Positive detection with zero MEC - verify source
+276802,Enrofloxacin,Surface Water - River/Stream,China,Max,positive detection,0.004,ng/L,0.0,µg/L,-9999.0,[-],Ju et al. 2018,exact,,Positive detection with zero MEC - verify source
+178756,Erythromycin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+95143,Estradiol,Surface Water - River/Stream,South Africa,Larger than,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,[-],de Jager et al. 2002,censored,lower-bound,Positive detection with zero MEC - verify source
+95144,Estradiol,Surface Water - River/Stream,South Africa,Larger than,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,[-],de Jager et al. 2002,censored,lower-bound,Positive detection with zero MEC - verify source
+95148,Estradiol,Surface Water - River/Stream,South Africa,Larger than,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,[-],de Jager et al. 2002,censored,lower-bound,Positive detection with zero MEC - verify source
+203311,Estriol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203316,Estriol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203325,Estriol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203330,Estriol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203344,Estriol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203353,Estriol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203358,Estriol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203637,Estriol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203645,Estriol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203651,Estriol,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203659,Estriol,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+226946,Estriol,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+195023,Estrone,Sediment - Lake,Hungary,unknown,positive detection,0.0,µg/kg,0.0,mg/kg,-9999.0,mg/kg,Bokony et al. 2018,exact,,Positive detection with zero MEC - verify source
+203307,Estrone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203323,Estrone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203337,Estrone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203346,Estrone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203351,Estrone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203360,Estrone,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203639,Estrone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203647,Estrone,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203658,Estrone,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203667,Estrone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203672,Estrone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,3.33,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+251049,Estrone,Surface Water - River/Stream,China,Single Value,positive detection,0.02,ng/L,0.0,µg/L,0.22,µg/L,Niu and Zhang 2018,exact,,Positive detection with zero MEC - verify source
+272074,Estrone,Sediment - Sea or Ocean,Malaysia,unknown,positive detection,0.038,ng/g dry-weight,0.0,mg/kg dry-weight,0.013,mg/kg dry-weight,"Ismail et al., 2020",exact,,Positive detection with zero MEC - verify source
+272075,Estrone,Sediment - Sea or Ocean,Malaysia,unknown,positive detection,0.02,ng/g dry-weight,0.0,mg/kg dry-weight,0.013,mg/kg dry-weight,"Ismail et al., 2020",exact,,Positive detection with zero MEC - verify source
+272077,Estrone,Sediment - Sea or Ocean,Malaysia,unknown,positive detection,0.018,ng/g dry-weight,0.0,mg/kg dry-weight,0.013,mg/kg dry-weight,"Ismail et al., 2020",exact,,Positive detection with zero MEC - verify source
+179644,Ethylparaben,Surface Water - Lake,Colombia,Average,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+180041,Ethylparaben,Surface Water - River/Stream,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+180078,Ethylparaben,Surface Water - River/Stream,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+203818,Fenoprofen,Soil,South Africa,Smaller than,positive detection,0.033,µg/kg,0.0,mg/kg dry-weight,0.011,mg/kg dry-weight,"Hlengwa and Mahlambi, 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+233500,Fludrocortisone,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+185912,Flumequine,WWTP effluent (treated),Republic of Korea,Average,positive detection,0.0,ng/L,0.0,µg/L,0.4,µg/L,Kim et al. 2018,exact,,Positive detection with zero MEC - verify source
+189208,Flumequine,WWTP effluent (treated),Spain,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Biel-Maeso et al. 2017,exact,,Positive detection with zero MEC - verify source
+228560,Flumequine,Surface Water - River/Stream,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Wang et al., 2019 b",exact,,Positive detection with zero MEC - verify source
+274987,Flumequine,Raw Water - Drinking Water Treatment Plant,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+274990,Flumequine,Drinking Water,China,Min,positive detection,0.01,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+274993,Flumequine,Tap Water,China,Min,positive detection,0.01,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+233489,Flunisolide,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+233491,Fluorometholone,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+226970,Flurbiprofen,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226987,Flurbiprofen,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+233492,Fluticasone propionate,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+105076,Gemfibrozil,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,41.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+191545,Gemfibrozil,Soil,Spain,Min,positive detection,0.02,ng/g,0.0,mg/kg,-9999.0,mg/kg,Biel-Maeso et al. 2017,exact,,Positive detection with zero MEC - verify source
+191568,Gemfibrozil,Soil,Spain,Mean,positive detection,0.04,ng/g,0.0,mg/kg,-9999.0,mg/kg,Biel-Maeso et al. 2017,exact,,Positive detection with zero MEC - verify source
+191561,Glibenclamide,Soil,Spain,Max,positive detection,0.02,ng/g,0.0,mg/kg,-9999.0,mg/kg,Biel-Maeso et al. 2017,exact,,Positive detection with zero MEC - verify source
+191576,Glibenclamide,Soil,Spain,Mean,positive detection,0.01,ng/g,0.0,mg/kg,-9999.0,mg/kg,Biel-Maeso et al. 2017,exact,,Positive detection with zero MEC - verify source
+234395,Gliclazide,WWTP secondary effluent,Canada,unknown,positive detection,0.0,ng/L,0.0,µg/L,0.25,µg/L,Manoli et al. 2019,exact,,Positive detection with zero MEC - verify source
+194845,Glipizide,Surface Water - Sea or Ocean,China,Max,positive detection,0.03,ng/L,0.0,µg/L,0.02,µg/L,Peng et al. 2019,exact,,Positive detection with zero MEC - verify source
+75427,Hydrochlorothiazide,WWTP effluent (treated),Spain,Single Value,positive detection,0.0,ng/l,0.0,µg/L,-9999.0,[-],Huerta-Fontela et al. (2010),exact,,Positive detection with zero MEC - verify source
+235797,Hydrochlorothiazide,Surface Water - Sea or Ocean,Sweden,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.04,µg/L,"Gustavsson et al., 2017",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+235799,Hydrochlorothiazide,Surface Water - Sea or Ocean,Sweden,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.04,µg/L,"Gustavsson et al., 2017",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+235800,Hydrochlorothiazide,Surface Water - Sea or Ocean,Sweden,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.04,µg/L,"Gustavsson et al., 2017",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+235801,Hydrochlorothiazide,Surface Water - Sea or Ocean,Sweden,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.04,µg/L,"Gustavsson et al., 2017",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+105078,Ibuprofen,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,5.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+177240,Ibuprofen,Sewage hospital (untreated),Republic of Korea,Max,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,"Sim, Lee et al. 2011",exact,,Positive detection with zero MEC - verify source
+177241,Ibuprofen,Sewage hospital (treated),Republic of Korea,Max,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,"Sim, Lee et al. 2011",exact,,Positive detection with zero MEC - verify source
+177242,Ibuprofen,WWTP inflow (untreated),Republic of Korea,Max,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,"Sim, Lee et al. 2011",exact,,Positive detection with zero MEC - verify source
+177243,Ibuprofen,WWTP effluent (treated),Republic of Korea,Max,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,"Sim, Lee et al. 2011",exact,,Positive detection with zero MEC - verify source
+180028,Ibuprofen,Surface Water - River/Stream,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+180029,Ibuprofen,Surface Water - River/Stream,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+180042,Ibuprofen,Surface Water - River/Stream,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+180063,Ibuprofen,Surface Water - River/Stream,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+180079,Ibuprofen,Surface Water - River/Stream,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+180082,Ibuprofen,Tap Water,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+191564,Ibuprofen,Soil,Spain,Mean,positive detection,0.0,ng/g,0.0,mg/kg,-9999.0,mg/kg,Biel-Maeso et al. 2017,exact,,Positive detection with zero MEC - verify source
+194800,Ibuprofen,Groundwater,Finland,Max,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Ahkola et al. 2017,exact,,Positive detection with zero MEC - verify source
+219587,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219588,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219590,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219591,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219592,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219593,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219595,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219596,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219597,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219598,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219599,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219601,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219602,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219603,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219604,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219605,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219606,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219607,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219608,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219609,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219610,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219611,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219612,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219613,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+219614,Ibuprofen,Soil,Vietnam,Single Value,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Trinh et al., 2020",exact,,Positive detection with zero MEC - verify source
+226920,Ibuprofen,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226939,Ibuprofen,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226963,Ibuprofen,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226986,Ibuprofen,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+105080,Indometacin,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,7.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+187651,Josamycin,Sediment - Lake,China,Median,positive detection,0.02,µg/kg,0.0,mg/kg dry-weight,0.007,mg/kg dry-weight,"Xu et al., 2018 b",exact,,Positive detection with zero MEC - verify source
+198917,Josamycin,Drinking Water,China,Max,positive detection,0.04,ng/L,0.0,µg/L,0.009,µg/L,"Ben et al., 2020",exact,,Positive detection with zero MEC - verify source
+222827,Josamycin,Surface Water - unspecific,China,Min,positive detection,0.04,ng/L,0.0,µg/L,0.006,µg/L,"Zhu et al., 2020",exact,,Positive detection with zero MEC - verify source
+105082,Ketoprofen,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,7.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+113772,Ketoprofen,Surface Water - River/Stream,Japan,Fraction of positive detections,positive detection,0.0,[-],0.0,[-],-9999.0,[-],"Nakada, N., K. Komori, et al. (2007)",exact,,Positive detection with zero MEC - verify source
+194821,Ketoprofen,Surface Water - Aquaculture,Finland,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Ahkola et al. 2017,exact,,Positive detection with zero MEC - verify source
+194998,Ketoprofen,Surface Water - Lake,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Bokony et al. 2018,exact,,Positive detection with zero MEC - verify source
+186469,Labetalol,Drinking Water,China,Median,positive detection,20.0,pg/L,0.0,µg/L,40.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+47610,Lincomycin,WWTP effluent (treated),Spain,Single Value,positive detection,0.0,ng/l,0.0,µg/L,15.0,µg/L,FATE SEES (2012),exact,,Positive detection with zero MEC - verify source
+105084,Lincomycin,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,1.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+185913,Lincomycin,Groundwater,Republic of Korea,Average,positive detection,0.0,ng/L,0.0,µg/L,0.6,µg/L,Kim et al. 2018,exact,,Positive detection with zero MEC - verify source
+185919,Lincomycin,Surface Water - River/Stream,Republic of Korea,Average,positive detection,0.0,ng/L,0.0,µg/L,0.6,µg/L,Kim et al. 2018,exact,,Positive detection with zero MEC - verify source
+191556,Lincomycin,Soil,Spain,Max,positive detection,0.03,ng/g,0.0,mg/kg,-9999.0,mg/kg,Biel-Maeso et al. 2017,exact,,Positive detection with zero MEC - verify source
+191571,Lincomycin,Soil,Spain,Mean,positive detection,0.0,ng/g,0.0,mg/kg,-9999.0,mg/kg,Biel-Maeso et al. 2017,exact,,Positive detection with zero MEC - verify source
+226909,Lomefloxacin,Surface Water - Lake,Uruguay,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Griffero et al. 2019,exact,,Positive detection with zero MEC - verify source
+216060,Losartan,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.0007,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216061,Losartan,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.0007,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216062,Losartan,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.0007,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216063,Losartan,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.0007,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216066,Losartan,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.0007,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+216067,Losartan,Sewage urban (treated),Brazil,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.0007,µg/L,"Roveri et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+182202,Mefenamic acid,WWTP effluent (treated),Malaysia,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Al-Qaim et al. 2018,exact,,Positive detection with zero MEC - verify source
+269134,Memantine,WWTP digested sludge,United Kingdom,Smaller than,positive detection,0.04,ng/g,0.0,mg/kg,0.01,mg/kg,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+269193,Methamphetamine,Suspended particulate matter - WWTP inflow,United Kingdom,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+179665,Methylparaben,Surface Water - Lake,Colombia,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+180004,Methylparaben,Surface Water - River/Stream,Colombia,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Aristizabal-Ciro et al. 2017,exact,,Positive detection with zero MEC - verify source
+234521,Metoprolol,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234522,Metoprolol,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234523,Metoprolol,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+268928,Metoprolol,Suspended particulate matter - WWTP inflow,United Kingdom,Smaller than,positive detection,0.03,ng/L,0.0,µg/L,0.01,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+186558,Metronidazole,WWTP inflow (untreated),Ghana,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Azanu et al. 2017,exact,,Positive detection with zero MEC - verify source
+186605,Metronidazole,WWTP effluent (treated),Ghana,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Azanu et al. 2017,exact,,Positive detection with zero MEC - verify source
+186653,Metronidazole,Surface Water - River/Stream,Ghana,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Azanu et al. 2017,exact,,Positive detection with zero MEC - verify source
+234407,Miconazole,WWTP secondary effluent,Canada,unknown,positive detection,0.0,ng/L,0.0,µg/L,0.08,µg/L,Manoli et al. 2019,exact,,Positive detection with zero MEC - verify source
+199779,Monensin,Drinking Water,China,Mean,positive detection,0.03,ng/L,0.0,µg/L,0.012,µg/L,"Ben et al., 2020",exact,,Positive detection with zero MEC - verify source
+226907,Morphine,Surface Water - Lake,Uruguay,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Griffero et al. 2019,exact,,Positive detection with zero MEC - verify source
+178736,N4-Acetylsulfamethoxazole,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178737,N4-Acetylsulfamethoxazole,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178738,N4-Acetylsulfamethoxazole,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178733,N-Acetylsulfadiazine,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178734,N-Acetylsulfadiazine,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178735,N-Acetylsulfadiazine,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+135940,Naproxen,WWTP sludge,Spain,Max,positive detection,9.48,µg/kg dry-weight,0.0,mg/kg dry-weight,2.95,mg/kg,Martín et al. 2015,exact,,Positive detection with zero MEC - verify source
+203809,Naproxen,Soil,South Africa,Single Value,positive detection,0.044,µg/kg,0.0,mg/kg dry-weight,0.027,mg/kg dry-weight,"Hlengwa and Mahlambi, 2020 b",exact,,Positive detection with zero MEC - verify source
+203810,Naproxen,Soil,South Africa,Smaller than,positive detection,0.031,µg/kg,0.0,mg/kg dry-weight,0.027,mg/kg dry-weight,"Hlengwa and Mahlambi, 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+203813,Naproxen,Soil,South Africa,Smaller than,positive detection,0.031,µg/kg,0.0,mg/kg dry-weight,0.027,mg/kg dry-weight,"Hlengwa and Mahlambi, 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+234465,Naproxen,WWTP effluent (treated),Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234466,Naproxen,WWTP effluent (treated),Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234494,Naproxen,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234495,Naproxen,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234496,Naproxen,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234524,Naproxen,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234525,Naproxen,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234526,Naproxen,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+253003,Naproxen,Sewage industrial (untreated),Republic of Korea,Mean,positive detection,0.0,µg/L,0.0,µg/L,0.012,µg/L,Na et al. 2019,exact,,Positive detection with zero MEC - verify source
+231472,Nevirapine,WWTP inflow (untreated),South Africa,unknown,positive detection,0.0,ng/mL,0.0,µg/L,-9999.0,µg/L,Mosekiemang et al. 2019,exact,,Positive detection with zero MEC - verify source
+234424,Nitrofurazone,Tap Water,Malaysia,Min,positive detection,0.0004,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+234440,Nitrofurazone,Tap Water,Malaysia,Mean,positive detection,0.0396,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+105086,Norfloxacin,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,38.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+123619,Norfloxacin,Surface Water - unspecific,India,Single Value,positive detection,0.0,µg/l,0.0,µg/L,0.8,µg/L,Rao et al. (2008),exact,,Positive detection with zero MEC - verify source
+105088,Ofloxacin,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,22.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+228554,Ofloxacin,Surface Water - River/Stream,China,Min,positive detection,0.01,ng/L,0.0,µg/L,0.01,µg/L,"Wang et al., 2019 b",exact,,Positive detection with zero MEC - verify source
+198971,Ormetoprim,Drinking Water,China,Mean,positive detection,0.03,ng/L,0.0,µg/L,0.03,µg/L,"Ben et al., 2020",exact,,Positive detection with zero MEC - verify source
+194852,Ornidazole,Surface Water - Sea or Ocean,China,Max,positive detection,0.04,ng/L,0.0,µg/L,0.1,µg/L,Peng et al. 2019,exact,,Positive detection with zero MEC - verify source
+105090,Oxacillin,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,70.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+269109,Oxazepam,WWTP digested sludge,United Kingdom,Smaller than,positive detection,0.03,ng/g,0.0,mg/kg,0.01,mg/kg,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+105092,Oxytetracycline,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,1.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+178718,Oxytetracycline,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178719,Oxytetracycline,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178720,Oxytetracycline,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+186563,Oxytetracycline,WWTP inflow (untreated),Ghana,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Azanu et al. 2017,exact,,Positive detection with zero MEC - verify source
+186600,Oxytetracycline,WWTP effluent (treated),Ghana,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Azanu et al. 2017,exact,,Positive detection with zero MEC - verify source
+187691,Oxytetracycline,Sediment - Lake,China,Median,positive detection,0.03,µg/kg,0.0,mg/kg dry-weight,0.019,mg/kg dry-weight,"Xu et al., 2018 b",exact,,Positive detection with zero MEC - verify source
+105060,Paracetamol,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,15.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+179000,Paracetamol,WWTP inflow (untreated),India,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Archana et al. 2017,exact,,Positive detection with zero MEC - verify source
+179003,Paracetamol,WWTP inflow (untreated),India,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Archana et al. 2017,exact,,Positive detection with zero MEC - verify source
+179009,Paracetamol,WWTP effluent (treated),India,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Archana et al. 2017,exact,,Positive detection with zero MEC - verify source
+179012,Paracetamol,WWTP effluent (treated),India,Mean,positive detection,0.0,µg/L,0.0,µg/L,-9999.0,µg/L,Archana et al. 2017,exact,,Positive detection with zero MEC - verify source
+186486,Penbutolol,Drinking Water,China,Average,positive detection,10.2,pg/L,0.0,µg/L,1.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+186487,Penbutolol,Drinking Water,China,Median,positive detection,0.0,pg/L,0.0,µg/L,1.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+102666,Pentoxifylline,Sewage urban (untreated),Slovakia,Single value,positive detection,0.0,µg/l,0.0,µg/L,0.04,µg/L,NORMAN (2012),exact,,Positive detection with zero MEC - verify source
+203713,Phenylbutazone,Surface Water - River/Stream,Portugal,Min,positive detection,0.0,ng/L,0.0,µg/L,2.4,µg/L,Foueaux et al. 2019,exact,,Positive detection with zero MEC - verify source
+203723,Phenylbutazone,WWTP effluent (treated),Portugal,Max,positive detection,0.0,ng/L,0.0,µg/L,2.4,µg/L,Foueaux et al. 2019,exact,,Positive detection with zero MEC - verify source
+203724,Phenylbutazone,WWTP effluent (treated),Portugal,Min,positive detection,0.0,ng/L,0.0,µg/L,2.4,µg/L,Foueaux et al. 2019,exact,,Positive detection with zero MEC - verify source
+233493,Prednisolone,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+203720,Prednisone,Surface Water - River/Stream,Portugal,Min,positive detection,0.0,ng/L,0.0,µg/L,7.2,µg/L,Foueaux et al. 2019,exact,,Positive detection with zero MEC - verify source
+203721,Prednisone,WWTP effluent (treated),Portugal,Min,positive detection,0.0,ng/L,0.0,µg/L,7.2,µg/L,Foueaux et al. 2019,exact,,Positive detection with zero MEC - verify source
+203722,Prednisone,WWTP effluent (treated),Portugal,Max,positive detection,0.0,ng/L,0.0,µg/L,7.2,µg/L,Foueaux et al. 2019,exact,,Positive detection with zero MEC - verify source
+233494,Prednisone,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+272084,Primidone,Sediment - Sea or Ocean,Malaysia,unknown,positive detection,0.024,ng/g dry-weight,0.0,mg/kg dry-weight,0.015,mg/kg dry-weight,"Ismail et al., 2020",exact,,Positive detection with zero MEC - verify source
+272085,Primidone,Sediment - Sea or Ocean,Malaysia,unknown,positive detection,0.03,ng/g dry-weight,0.0,mg/kg dry-weight,0.015,mg/kg dry-weight,"Ismail et al., 2020",exact,,Positive detection with zero MEC - verify source
+272088,Primidone,Sediment - Sea or Ocean,Malaysia,unknown,positive detection,0.048,ng/g dry-weight,0.0,mg/kg dry-weight,0.015,mg/kg dry-weight,"Ismail et al., 2020",exact,,Positive detection with zero MEC - verify source
+272089,Primidone,Sediment - Sea or Ocean,Malaysia,unknown,positive detection,0.02,ng/g dry-weight,0.0,mg/kg dry-weight,0.015,mg/kg dry-weight,"Ismail et al., 2020",exact,,Positive detection with zero MEC - verify source
+129746,Progesterone,WWTP effluent (treated),Finland,Average,positive detection,0.0,ng/L,0.0,µg/L,0.97,µg/L,Sirén & El Fellah 2016,exact,,Positive detection with zero MEC - verify source
+129749,Progesterone,WWTP inflow (untreated),Finland,Average,positive detection,0.0,ng/L,0.0,µg/L,0.97,µg/L,Sirén & El Fellah 2016,exact,,Positive detection with zero MEC - verify source
+129750,Progesterone,WWTP effluent (treated),Finland,Average,positive detection,0.0,ng/L,0.0,µg/L,0.97,µg/L,Sirén & El Fellah 2016,exact,,Positive detection with zero MEC - verify source
+129752,Progesterone,WWTP effluent (treated),Finland,Average,positive detection,0.0,ng/L,0.0,µg/L,0.97,µg/L,Sirén & El Fellah 2016,exact,,Positive detection with zero MEC - verify source
+203341,Progesterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203356,Progesterone,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203629,Progesterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203631,Progesterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203642,Progesterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203643,Progesterone,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+186489,Propranolol,Drinking Water,China,Average,positive detection,11.2,pg/L,0.0,µg/L,5.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+194853,Propranolol,Surface Water - Sea or Ocean,China,Max,positive detection,0.03,ng/L,0.0,µg/L,0.02,µg/L,Peng et al. 2019,exact,,Positive detection with zero MEC - verify source
+196490,Propranolol,WWTP effluent (treated),USA,unknown,positive detection,0.013,ng/L,0.0,µg/L,1.0,µg/L,Shad et al. 2019,exact,,Positive detection with zero MEC - verify source
+234403,Ractopamine,WWTP secondary effluent,Canada,unknown,positive detection,0.0,ng/L,0.0,µg/L,0.38,µg/L,Manoli et al. 2019,exact,,Positive detection with zero MEC - verify source
+269124,Risperidone,WWTP digested sludge,United Kingdom,Smaller than,positive detection,0.01,ng/g,0.0,mg/kg,0.002,mg/kg,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+231469,Ritonavir,WWTP inflow (untreated),South Africa,unknown,positive detection,0.0,ng/mL,0.0,µg/L,-9999.0,µg/L,Mosekiemang et al. 2019,exact,,Positive detection with zero MEC - verify source
+231470,Ritonavir,WWTP inflow (untreated),South Africa,unknown,positive detection,0.0,ng/mL,0.0,µg/L,-9999.0,µg/L,Mosekiemang et al. 2019,exact,,Positive detection with zero MEC - verify source
+178767,Roxithromycin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178768,Roxithromycin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+273616,Roxithromycin,Groundwater,China,Single Value,positive detection,0.016,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273618,Roxithromycin,Groundwater,China,Single Value,positive detection,0.046,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273622,Roxithromycin,Groundwater,China,Single Value,positive detection,0.016,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273625,Roxithromycin,Groundwater,China,Single Value,positive detection,0.012,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273631,Roxithromycin,Groundwater,China,Single Value,positive detection,0.026,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273634,Roxithromycin,Groundwater,China,Single Value,positive detection,0.025,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273636,Roxithromycin,Groundwater,China,Single Value,positive detection,0.033,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273640,Roxithromycin,Groundwater,China,Single Value,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273642,Roxithromycin,Groundwater,China,Single Value,positive detection,0.026,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273644,Roxithromycin,Groundwater,China,Single Value,positive detection,0.043,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273648,Roxithromycin,Groundwater,China,Single Value,positive detection,0.038,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273649,Roxithromycin,Groundwater,China,Single Value,positive detection,0.032,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273650,Roxithromycin,Groundwater,China,Single Value,positive detection,0.013,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273652,Roxithromycin,Groundwater,China,Single Value,positive detection,0.029,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273654,Roxithromycin,Groundwater,China,Single Value,positive detection,0.017,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273655,Roxithromycin,Groundwater,China,Single Value,positive detection,0.011,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273656,Roxithromycin,Groundwater,China,Single Value,positive detection,0.047,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273659,Roxithromycin,Groundwater,China,Single Value,positive detection,0.037,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273661,Roxithromycin,Groundwater,China,Single Value,positive detection,0.024,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273663,Roxithromycin,Groundwater,China,Single Value,positive detection,0.01,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273664,Roxithromycin,Groundwater,China,Single Value,positive detection,0.023,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273665,Roxithromycin,Groundwater,China,Single Value,positive detection,0.019,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273668,Roxithromycin,Groundwater,China,Single Value,positive detection,0.045,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273670,Roxithromycin,Groundwater,China,Single Value,positive detection,0.012,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273681,Roxithromycin,Groundwater,China,Single Value,positive detection,0.043,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273682,Roxithromycin,Groundwater,China,Single Value,positive detection,0.023,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273683,Roxithromycin,Groundwater,China,Single Value,positive detection,0.048,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273684,Roxithromycin,Groundwater,China,Single Value,positive detection,0.027,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273688,Roxithromycin,Groundwater,China,Single Value,positive detection,0.027,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273689,Roxithromycin,Groundwater,China,Single Value,positive detection,0.019,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+273691,Roxithromycin,Groundwater,China,Single Value,positive detection,0.014,ng/L,0.0,µg/L,0.01,µg/L,"Yao et al., 2017",exact,,Positive detection with zero MEC - verify source
+161233,Salicylic acid,Surface Water - unspecific,Australia,unknown,positive detection,0.1,µg/L,0.0,µg/L,-9999.0,µg/L,French et al. 2015,exact,,Positive detection with zero MEC - verify source
+226919,Salicylic acid,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226938,Salicylic acid,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226943,Salicylic acid,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226962,Salicylic acid,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226968,Salicylic acid,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+226985,Salicylic acid,Soil,Poland,unknown,positive detection,0.0,ng/g dry-weight,0.0,mg/kg dry-weight,0.3,mg/kg dry-weight,Kumirska et al. 2019,exact,,Positive detection with zero MEC - verify source
+234527,Sitagliptin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234528,Sitagliptin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234529,Sitagliptin,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+187623,Spiramycin,Sediment - Lake,China,Median,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Xu et al., 2018 b",exact,,Positive detection with zero MEC - verify source
+234406,Spiramycin,WWTP secondary effluent,Canada,unknown,positive detection,0.0,ng/L,0.0,µg/L,0.4,µg/L,Manoli et al. 2019,exact,,Positive detection with zero MEC - verify source
+275131,Sulfacetamide,Raw Water - Drinking Water Treatment Plant,China,Min,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275134,Sulfacetamide,Drinking Water,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275137,Sulfacetamide,Tap Water,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+178750,Sulfadiazine,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+185911,Sulfadiazine,WWTP effluent (treated),Republic of Korea,Average,positive detection,0.0,ng/L,0.0,µg/L,2.7,µg/L,Kim et al. 2018,exact,,Positive detection with zero MEC - verify source
+187655,Sulfadiazine,Sediment - Lake,China,Median,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.004,mg/kg dry-weight,"Xu et al., 2018 b",exact,,Positive detection with zero MEC - verify source
+194768,Sulfadiazine,Surface Water - Sea or Ocean,China,Max,positive detection,0.04,ng/L,0.0,µg/L,0.02,µg/L,Peng et al. 2019,exact,,Positive detection with zero MEC - verify source
+250829,Sulfadiazine,Surface Water - River/Stream,Bangladesch,Single Value,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Hossain et al., 2018",exact,,Positive detection with zero MEC - verify source
+250842,Sulfadiazine,Surface Water - River/Stream,Bangladesch,Single Value,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Hossain et al., 2018",exact,,Positive detection with zero MEC - verify source
+268754,Sulfadiazine,WWTP digested sludge,United Kingdom,Smaller than,positive detection,0.01,ng/g,0.0,mg/kg,0.003,mg/kg,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+275152,Sulfadiazine,Drinking Water,China,Min,positive detection,0.03,ng/L,0.0,µg/L,0.015,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+105096,Sulfadimethoxine,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,1.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+187659,Sulfamerazine,Sediment - Lake,China,Median,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.003,mg/kg dry-weight,"Xu et al., 2018 b",exact,,Positive detection with zero MEC - verify source
+105098,Sulfamethazine,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,4.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+187663,Sulfamethazine,Sediment - Lake,China,Median,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.003,mg/kg dry-weight,"Xu et al., 2018 b",exact,,Positive detection with zero MEC - verify source
+196977,Sulfamethazine,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.03,ng/g dry-weight,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+196978,Sulfamethazine,WWTP primary sludge,Nigeria,Smaller than,positive detection,0.03,ng/g dry-weight,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+196980,Sulfamethazine,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.03,ng/g dry-weight,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+196981,Sulfamethazine,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.03,ng/g dry-weight,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+196982,Sulfamethazine,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.03,ng/g dry-weight,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+196983,Sulfamethazine,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.03,ng/g dry-weight,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+231553,Sulfamethazine,Tap Water,China,Median,positive detection,0.03,ng/L,0.0,µg/L,-9999.0,µg/L,Liu et al. 2019,exact,,Positive detection with zero MEC - verify source
+275194,Sulfamethazine,Raw Water - Drinking Water Treatment Plant,China,Min,positive detection,0.03,ng/L,0.0,µg/L,0.01,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275197,Sulfamethazine,Drinking Water,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275200,Sulfamethazine,Tap Water,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+188090,Sulfamethizole,WWTP sludge,China,Median,positive detection,0.0,ng/g,0.0,mg/kg,-9999.0,mg/kg,Ben et al. 2018,exact,,Positive detection with zero MEC - verify source
+188101,Sulfamethizole,WWTP sludge,China,Min,positive detection,0.0,ng/g,0.0,mg/kg,-9999.0,mg/kg,Ben et al. 2018,exact,,Positive detection with zero MEC - verify source
+188158,Sulfamethizole,WWTP sludge,China,Max,positive detection,0.0,ng/g,0.0,mg/kg,-9999.0,mg/kg,Ben et al. 2018,exact,,Positive detection with zero MEC - verify source
+105100,Sulfamethoxazole,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,11.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+131528,Sulfamethoxazole,Surface Water - River/Stream,Japan,Max,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Murata et al. 2011,exact,,Positive detection with zero MEC - verify source
+178763,Sulfamethoxazole,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178764,Sulfamethoxazole,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+187667,Sulfamethoxazole,Sediment - Lake,China,Median,positive detection,0.02,µg/kg,0.0,mg/kg dry-weight,0.006,mg/kg dry-weight,"Xu et al., 2018 b",exact,,Positive detection with zero MEC - verify source
+190782,Sulfamethoxazole,Sewage livestock (treated),Mexico,Average,positive detection,0.0,µg/mL,0.0,µg/L,2.532,µg/L,"Leon-Aguirre et al., 2019",exact,,Positive detection with zero MEC - verify source
+194763,Sulfamethoxazole,WWTP inflow (untreated),Finland,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Ahkola et al. 2017,exact,,Positive detection with zero MEC - verify source
+194801,Sulfamethoxazole,Groundwater,Finland,Max,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Ahkola et al. 2017,exact,,Positive detection with zero MEC - verify source
+194802,Sulfamethoxazole,Groundwater,Finland,Max,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Ahkola et al. 2017,exact,,Positive detection with zero MEC - verify source
+194815,Sulfamethoxazole,Surface Water - Aquaculture,Finland,Max,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Ahkola et al. 2017,exact,,Positive detection with zero MEC - verify source
+194823,Sulfamethoxazole,Surface Water - Aquaculture,Finland,Max,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Ahkola et al. 2017,exact,,Positive detection with zero MEC - verify source
+196141,Sulfamethoxazole,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+196142,Sulfamethoxazole,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+196143,Sulfamethoxazole,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+196144,Sulfamethoxazole,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+196145,Sulfamethoxazole,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+196286,Sulfamethoxazole,Surface Water - River/Stream,Italy,Single Value,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Diamantini et al. 2019,exact,,Positive detection with zero MEC - verify source
+196985,Sulfamethoxazole,WWTP primary sludge,Nigeria,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+196986,Sulfamethoxazole,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+196990,Sulfamethoxazole,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.04,ng/g dry-weight,0.0,mg/kg dry-weight,0.01,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+231546,Sulfamethoxazole,Tap Water,China,Median,positive detection,0.02,ng/L,0.0,µg/L,-9999.0,µg/L,Liu et al. 2019,exact,,Positive detection with zero MEC - verify source
+234425,Sulfamethoxazole,Tap Water,Malaysia,Min,positive detection,0.0206,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+234530,Sulfamethoxazole,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234531,Sulfamethoxazole,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234532,Sulfamethoxazole,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+275215,Sulfamethoxazole,Drinking Water,China,Min,positive detection,0.04,ng/L,0.0,µg/L,0.015,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+187675,Sulfapyridine,Sediment - Lake,China,Median,positive detection,0.01,µg/kg,0.0,mg/kg dry-weight,0.004,mg/kg dry-weight,"Xu et al., 2018 b",exact,,Positive detection with zero MEC - verify source
+231561,Sulfapyridine,Tap Water,China,Median,positive detection,0.02,ng/L,0.0,µg/L,-9999.0,µg/L,Liu et al. 2019,exact,,Positive detection with zero MEC - verify source
+275242,Sulfapyridine,Drinking Water,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.015,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275245,Sulfapyridine,Tap Water,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.015,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275248,Sulfaquinoxaline,Raw Water - Drinking Water Treatment Plant,China,Min,positive detection,0.03,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275251,Sulfaquinoxaline,Drinking Water,China,Min,positive detection,0.01,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+103630,Sulfathiazole,WWTP inflow (untreated),Croatia,Single value,positive detection,0.0,ng/l,0.0,µg/L,0.2,mg/kg,Senta et al. (2012),exact,,Positive detection with zero MEC - verify source
+105102,Sulfathiazole,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,5.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+187671,Sulfathiazole,Sediment - Lake,China,Median,positive detection,0.02,µg/kg,0.0,mg/kg dry-weight,0.003,mg/kg dry-weight,"Xu et al., 2018 b",exact,,Positive detection with zero MEC - verify source
+199519,Sulfathiazole,Drinking Water,China,Mean,positive detection,0.04,ng/L,0.0,µg/L,0.037,µg/L,"Ben et al., 2020",exact,,Positive detection with zero MEC - verify source
+222631,Sulfisomidine,Surface Water - unspecific,China,Min,positive detection,0.03,ng/L,0.0,µg/L,0.007,µg/L,"Zhu et al., 2020",exact,,Positive detection with zero MEC - verify source
+186504,Sulpiride,Drinking Water,China,Average,positive detection,35.3,pg/L,0.0,µg/L,2.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+268983,Tamoxifen,Suspended particulate matter - WWTP inflow,United Kingdom,Smaller than,positive detection,0.01,ng/L,0.0,µg/L,0.004,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+269103,Temazepam,Suspended particulate matter - WWTP inflow,United Kingdom,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+203312,Testosterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203315,Testosterone,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203326,Testosterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203329,Testosterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203355,Testosterone,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203628,Testosterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203636,Testosterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203644,Testosterone,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203650,Testosterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203662,Testosterone,Surface Water - River/Stream,Belgium,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+203663,Testosterone,Surface Water - River/Stream,France,Single Value,positive detection,0.0,ng/L,0.0,µg/L,1.66,µg/L,Sghaier et al. 2017,exact,,Positive detection with zero MEC - verify source
+272109,Testosterone,Sediment - Sea or Ocean,Malaysia,unknown,positive detection,0.021,ng/g dry-weight,0.0,mg/kg dry-weight,0.015,mg/kg dry-weight,"Ismail et al., 2020",exact,,Positive detection with zero MEC - verify source
+272112,Testosterone,Sediment - Sea or Ocean,Malaysia,unknown,positive detection,0.025,ng/g dry-weight,0.0,mg/kg dry-weight,0.015,mg/kg dry-weight,"Ismail et al., 2020",exact,,Positive detection with zero MEC - verify source
+129764,Testosterone glucuronide,WWTP effluent (treated),Finland,Average,positive detection,0.0,ng/L,0.0,µg/L,0.05,µg/L,Sirén & El Fellah 2016,exact,,Positive detection with zero MEC - verify source
+129767,Testosterone glucuronide,WWTP inflow (untreated),Finland,Average,positive detection,0.0,ng/L,0.0,µg/L,0.05,µg/L,Sirén & El Fellah 2016,exact,,Positive detection with zero MEC - verify source
+129770,Testosterone glucuronide,WWTP effluent (treated),Finland,Average,positive detection,0.0,ng/L,0.0,µg/L,0.05,µg/L,Sirén & El Fellah 2016,exact,,Positive detection with zero MEC - verify source
+105104,Tetracycline,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,44.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+178724,Tetracycline,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178725,Tetracycline,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178726,Tetracycline,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+234452,Tetracycline,WWTP effluent (treated),Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234453,Tetracycline,WWTP effluent (treated),Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234454,Tetracycline,WWTP effluent (treated),Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234482,Tetracycline,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234483,Tetracycline,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234484,Tetracycline,Surface Water - River/Stream,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234512,Tetracycline,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234513,Tetracycline,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+234514,Tetracycline,Tap Water,Hungary,unknown,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Krakko et al. 2019,exact,,Positive detection with zero MEC - verify source
+186498,Thiabendazole,Drinking Water,China,Median,positive detection,36.5,pg/L,0.0,µg/L,4.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+275266,Thiabendazole,Raw Water - Drinking Water Treatment Plant,China,Min,positive detection,0.03,ng/L,0.0,µg/L,0.01,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275269,Thiabendazole,Drinking Water,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275272,Thiabendazole,Tap Water,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+199791,Tiamulin,Drinking Water,China,Mean,positive detection,0.04,ng/L,0.0,µg/L,0.032,µg/L,"Ben et al., 2020",exact,,Positive detection with zero MEC - verify source
+199797,Tiamulin,Drinking Water,China,Max,positive detection,0.04,ng/L,0.0,µg/L,0.032,µg/L,"Ben et al., 2020",exact,,Positive detection with zero MEC - verify source
+233495,Triamcinolone,Surface Water - River/Stream,China,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Gong et al. 2019,exact,,Positive detection with zero MEC - verify source
+181870,Triclocarban,WWTP effluent (treated),South Africa,Min,positive detection,0.0,µg/L,0.0,µg/L,0.07,µg/L,Kanama et al. 2018,exact,,Positive detection with zero MEC - verify source
+260337,Triclocarban,Surface Water - Lake,China,Mean,positive detection,0.04,ng/L,0.0,µg/L,0.04,µg/L,"Cao et al., 2020",exact,,Positive detection with zero MEC - verify source
+105106,Triclosan,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,11.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+234426,Triclosan,Tap Water,Malaysia,Min,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Nasir et al. 2019,exact,,Positive detection with zero MEC - verify source
+105108,Trimethoprim,Surface Water - River/Stream,Costa Rica,average,positive detection,0.0,ng/L,0.0,µg/L,7.0,µg/L,Spongberg et al. (2011),exact,,Positive detection with zero MEC - verify source
+123627,Trimethoprim,Surface Water - Lake,India,Single Value,positive detection,0.0,µg/l,0.0,µg/L,1.2,µg/L,Rao et al. (2008),exact,,Positive detection with zero MEC - verify source
+123628,Trimethoprim,Surface Water - unspecific,India,Single Value,positive detection,0.0,µg/l,0.0,µg/L,1.2,µg/L,Rao et al. (2008),exact,,Positive detection with zero MEC - verify source
+124662,Trimethoprim,Sediment - River/Stream,France,Max,positive detection,0.0,µg/kg,0.0,mg/kg,0.4,mg/kg,Tamtam et al. 2011,exact,,Positive detection with zero MEC - verify source
+178751,Trimethoprim,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+191559,Trimethoprim,Soil,Spain,Max,positive detection,0.04,ng/g,0.0,mg/kg,-9999.0,mg/kg,Biel-Maeso et al. 2017,exact,,Positive detection with zero MEC - verify source
+191574,Trimethoprim,Soil,Spain,Mean,positive detection,0.02,ng/g,0.0,mg/kg,-9999.0,mg/kg,Biel-Maeso et al. 2017,exact,,Positive detection with zero MEC - verify source
+197007,Trimethoprim,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.01,ng/g dry-weight,0.0,mg/kg dry-weight,0.003,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+197009,Trimethoprim,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.01,ng/g dry-weight,0.0,mg/kg dry-weight,0.003,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+197010,Trimethoprim,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.01,ng/g dry-weight,0.0,mg/kg dry-weight,0.003,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+197011,Trimethoprim,WWTP secondary sludge,Nigeria,Smaller than,positive detection,0.01,ng/g dry-weight,0.0,mg/kg dry-weight,0.003,mg/kg dry-weight,"Ajibola et al., 2020 b",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+271541,Trimethoprim,Sediment - River/Stream,China,Mean,positive detection,26.0,ng/kg,0.0,mg/kg,-9999.0,[-],"Zhang et al., 2020",exact,,Positive detection with zero MEC - verify source
+275275,Trimethoprim,Raw Water - Drinking Water Treatment Plant,China,Min,positive detection,0.03,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275278,Trimethoprim,Drinking Water,China,Min,positive detection,0.01,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+275281,Trimethoprim,Tap Water,China,Min,positive detection,0.03,ng/L,0.0,µg/L,0.008,µg/L,"Lv et al., 2019",exact,,Positive detection with zero MEC - verify source
+186483,Tulobuterol,Drinking Water,China,Average,positive detection,16.2,pg/L,0.0,µg/L,10.0,µg/L,"Gu et al., 2019",exact,,Positive detection with zero MEC - verify source
+178739,Tylosin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178740,Tylosin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+178741,Tylosin,Surface Water - River/Stream,Finland,Mean,positive detection,0.0,ng/L,0.0,µg/L,-9999.0,µg/L,Meierjohann et al. 2017,exact,,Positive detection with zero MEC - verify source
+222823,Tylosin,Surface Water - unspecific,China,Min,positive detection,0.02,ng/L,0.0,µg/L,0.003,µg/L,"Zhu et al., 2020",exact,,Positive detection with zero MEC - verify source
+222824,Tylosin,Surface Water - unspecific,China,Max,positive detection,0.02,ng/L,0.0,µg/L,0.003,µg/L,"Zhu et al., 2020",exact,,Positive detection with zero MEC - verify source
+222825,Tylosin,Surface Water - unspecific,China,Mean,positive detection,0.02,ng/L,0.0,µg/L,0.003,µg/L,"Zhu et al., 2020",exact,,Positive detection with zero MEC - verify source
+222826,Tylosin,Surface Water - unspecific,China,Median,positive detection,0.02,ng/L,0.0,µg/L,0.003,µg/L,"Zhu et al., 2020",exact,,Positive detection with zero MEC - verify source
+234401,Tylosin,WWTP secondary effluent,Canada,unknown,positive detection,0.0,ng/L,0.0,µg/L,1.08,µg/L,Manoli et al. 2019,exact,,Positive detection with zero MEC - verify source
+234402,Tylosin,WWTP secondary effluent,Canada,unknown,positive detection,0.0,ng/L,0.0,µg/L,1.08,µg/L,Manoli et al. 2019,exact,,Positive detection with zero MEC - verify source
+214356,Verapamil,WWTP inflow (untreated),Mexico,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214357,Verapamil,WWTP inflow (untreated),Mexico,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214358,Verapamil,WWTP inflow (untreated),Mexico,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214359,Verapamil,WWTP inflow (untreated),Mexico,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214360,Verapamil,WWTP inflow (untreated),Mexico,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214361,Verapamil,WWTP inflow (untreated),Mexico,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214362,Verapamil,WWTP inflow (untreated),Mexico,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214363,Verapamil,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214364,Verapamil,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214365,Verapamil,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214366,Verapamil,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214367,Verapamil,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214368,Verapamil,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+214369,Verapamil,WWTP inflow (untreated),USA,Average,positive detection,0.0,ng/L,0.0,µg/L,0.0,µg/L,"Ng et al., 2020",exact,,Positive detection with zero MEC - verify source
+269095,Verapamil,Surface Water - River/Stream,United Kingdom,Smaller than,positive detection,0.02,ng/L,0.0,µg/L,0.01,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+269096,Verapamil,WWTP effluent (treated),United Kingdom,Smaller than,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+269097,Verapamil,WWTP inflow (untreated),United Kingdom,Smaller than,positive detection,0.03,ng/L,0.0,µg/L,0.01,µg/L,"Proctor et al., 2019",censored,upper-bound / below-detection,Positive detection with zero MEC - verify source
+207329,Zolpidem,Surface Water - River/Stream,Hungary,Single Value,positive detection,0.01,ng/L,0.0,µg/L,0.01,µg/L,"Kondor et al., 2020",exact,,Positive detection with zero MEC - verify source
+210903,Zolpidem,Well Water (untreated),Hungary,Single Value,positive detection,0.04,ng/L,0.0,µg/L,0.01,µg/L,"Kondor et al., 2020",exact,,Positive detection with zero MEC - verify source

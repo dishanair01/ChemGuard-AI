@@ -1,0 +1,9 @@
+Metric,Value
+total_records,276895
+valid_concentration_records,273570
+valid_dimensionless_records,1867
+missing_concentration_values,1434
+unique_compounds,1125
+unique_matrices,62
+unique_countries,89
+unique_literature_sources,2064
