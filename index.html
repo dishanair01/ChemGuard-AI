@@ -201,8 +201,8 @@ async function openProfile(name) {
     const encodedName = encodeURIComponent(name);
 
     const [compoundResponse, environmentResponse] = await Promise.all([
-      fetch(`http://127.0.0.1:8000/api/compound/${encodedName}`),
-      fetch(`http://127.0.0.1:8000/api/environment/${encodedName}`)
+      fetch(`https://chemguard-ai-ez6j.onrender.com/api/compound/${encodedName}`),
+      fetch(`https://chemguard-ai-ez6j.onrender.com/api/environment/${encodedName}`)
     ]);
 
     if (!compoundResponse.ok || !environmentResponse.ok) {
